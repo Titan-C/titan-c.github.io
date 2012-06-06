@@ -11,7 +11,7 @@ body {
 	margin: 0;
 	padding: 0;
 }
-header {
+header, section{
 	background-color: #C8C8FF;
 	font-family: arial, helvetica, sans-serif;
 	border-radius: 0 10px 10px 0;
@@ -28,4 +28,7 @@ li {
 footer {
 	width:40%;
 	padding: 30px;
+}
+b {
+	font-size: 25px;
 }
