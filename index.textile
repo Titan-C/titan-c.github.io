@@ -1,0 +1,17 @@
+---
+layout: default
+title: My personal Webpage
+---
+
+<header>
+h1. Óscar Nájera
+
+ <nav>
+
+ * "About Me":about.html
+ * "CV":https://docs.google.com/open?id=0B8uqWJ7n_lK-bG14LUdkdHAwQTQ
+ * "Contact":contact.html
+ * "Fork me on Github":http://github.com/Titan-C
+
+ </nav>
+</header>
