@@ -2,7 +2,7 @@
 layout: default
 title: CV
 ---
-<div id="main">
+
 h1. Óscar Andrés Nájera Ocampo
 
 h5. "PDF file":https://docs.google.com/open?id=0B8uqWJ7n_lK-NzZidWF0NE9WLU0
@@ -102,5 +102,3 @@ h3. Outside Interests
 * Ballroom Dancing
 * Cycling
 </section>
-
-</div>

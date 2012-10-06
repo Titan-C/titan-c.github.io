@@ -2,6 +2,5 @@
 layout: default
 title: Portfolio - Under Construction
 ---
-<div id="main">
+
 h1. Under Construction
-</div>

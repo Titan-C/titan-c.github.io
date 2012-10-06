@@ -2,10 +2,7 @@
 layout: default
 title: Contact me
 ---
-<div id="main">
 
 * *e-mail:* najera (dot) oscar (at) gmail (dot) com
 * *Facebook:* "najera.oscar":http://www.facebook.com/najera.oscar
 * *LinkedIn:* "Óscar Nájera":http://www.linkedin.com/pub/%C3%B3scar-n%C3%A1jera/4b/73/445
-
-</div>

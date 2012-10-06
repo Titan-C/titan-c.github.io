@@ -2,6 +2,5 @@
 layout: default
 title: Blog - Under Construction
 ---
-<div id="main">
+
 h1. Under Construction
-</div>
