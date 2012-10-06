@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
- <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+ <meta charset="utf-8" />
  <meta name="author" content="Oscar Andres Najera Ocampo" />
 
- <link href="css/style.css" type="text/css" rel="stylesheet" />
+ <link href="css/style.css" rel="stylesheet" />
 
  <title>{{page.title}}</title>
 
  <!-- Google Analytics -->
-<script type="text/javascript">
+<script>
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-32898234-1']);
@@ -24,6 +24,8 @@
 </head>
 
 <body>
+
+ <!-- Header -->
  <img src="images/logo.gif" id="logo"/>
  <header>
    <ul>
@@ -32,8 +34,10 @@
     <li><a href="portfolio.html">Portfolio</a></li>
     <li><a href="contact.html">Contact</a></li>
   </ul>
-</header>
- <nav>
+ </header>
+
+ <!-- Side Navigation Panel -->
+ <aside>
   <ul>
    <li><a href="index.html">About Me</a>
      <ul>
@@ -57,10 +61,14 @@
    </li>
    <li><a href="contact.html">Contact</a></li>
   </ul>
- </nav>
+ </aside>
 
- {{content}}
+ <!-- Main Content -->
+ <div id="main">
+  {{content}}
+ </div>
 
+ <!-- Footer -->
  <footer>
   <a href="http://validator.w3.org/check?uri=referer">
    <img src="images/valid-html5.png" alt="This page is Valid HTML5 per W3C validator service linked here!" />
