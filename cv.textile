@@ -57,7 +57,7 @@ h3. Academic Experience
 %(name)*Escuela Politécnica Nacional,* Quito - Ecuador%
 
 * Student %(date)Oct 2006 - Sep 2012%
-* Laboratory & teacher's Assitant %(date)Aug 2011 - Jun 2012%
+* Laboratory & teacher's Assistant %(date)Aug 2011 - Jun 2012%
 </div>
 
 <div class="organization">

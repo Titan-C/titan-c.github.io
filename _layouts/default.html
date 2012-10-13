@@ -5,6 +5,8 @@
  <meta name="author" content="Oscar Andres Najera Ocampo" />
 
  <link href="css/style.css" rel="stylesheet" />
+ <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+ <script src="js/default.js"></script>
 
  <title>{{page.title}}</title>
 
@@ -24,20 +26,21 @@
 </head>
 
 <body>
+<div id="content">
 
  <!-- Header -->
- <img src="images/logo.gif" id="logo"/>
  <header>
-   <ul>
-    <li><a href="index.html">About</a></li>
-    <li><a href="blog.html">Blog</a></li>
-    <li><a href="portfolio.html">Portfolio</a></li>
-    <li><a href="contact.html">Contact</a></li>
-  </ul>
+ <img src="images/logo.gif" id="logo"/>
+ <h1>My Personal Website</h1>
  </header>
 
+ <!-- Main Content -->
+ <div id="main">
+  {{content}}
+ </div>
+
  <!-- Side Navigation Panel -->
- <aside>
+ <aside id="NavPanel">
   <ul>
    <li><a href="index.html">About Me</a>
      <ul>
@@ -63,11 +66,6 @@
   </ul>
  </aside>
 
- <!-- Main Content -->
- <div id="main">
-  {{content}}
- </div>
-
  <!-- Footer -->
  <footer>
   <a href="http://validator.w3.org/check?uri=referer">
@@ -79,5 +77,6 @@
         alt="Valid CSS!" />
   </a>
 </footer>
+</div>
 </body>
 </html>
