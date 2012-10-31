@@ -28,6 +28,14 @@ Condensed Matter, Solid State Physics, Statistical Mechanics, Mathematical & The
 h3. Education
 
 <div class="organization">
+%(name)*Universidad Central del Ecuador*, Quito - Ecuador%
+
+* Master in Mathematics %(date)Oct 2012 - present%
+** Joint Master program with _Escuela Politécnica Nacional_ & _Universidad San Francisco de Quito_ in Quito - Ecuador and _Université Jean Monnet_ in Saint-Etienne - France
+
+</div>
+
+<div class="organization">
 %(name)*Escuela Politécnica Nacional,* Quito - Ecuador%
 
 * Physics Diploma %(date)Oct 2006 - Sep 2012%
@@ -56,6 +64,13 @@ h3. Honors and Awards
 
 <section>
 h3. Academic Experience
+
+<div class="organization">
+%(name)*Universidad Central del Ecuador*, Quito - Ecuador%
+
+* Researcher in the Symmetries and Molecular Chemistry Group %(date)Sep 2012 - present%
+
+</div>
 
 <div class="organization">
 %(name)*Escuela Politécnica Nacional,* Quito - Ecuador%
@@ -91,6 +106,7 @@ h3. Other Publications
 h3. Computer Skills
 
 * *Programming Languages:* C/C++, Python, Bash, Php, Matlab/Octave
+* *Libraries & packages:* GSL, Scipy, Numpy
 * *Content-description languages:* HTML, CSS, LATEX
 * *Operating Systems:*  Linux(Gentoo)
 * *Graphic design:* Gimp, Inkscape, Blender
