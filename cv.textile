@@ -28,17 +28,9 @@ Condensed Matter, Solid State Physics, Statistical Mechanics, Mathematical & The
 h3. Education
 
 <div class="organization">
-h4(name). *Universidad Central del Ecuador*, Quito - Ecuador
-
-* Master in Mathematics %(date)Oct 2012 - present%
-** Joint Master program with _Escuela Politécnica Nacional_ & _Universidad San Francisco de Quito_ in Quito - Ecuador and _Université Jean Monnet_ in Saint-Etienne - France
-
-</div>
-
-<div class="organization">
 h4(name). *Escuela Politécnica Nacional*, Quito - Ecuador
 
-* Physics Diploma %(date)Oct 2006 - Sep 2012%
+* Physics Diploma %(date)Oct. 2006 - Sept. 2012%
 ** _Thesis Topic:_ Estimation, by computer simulation, of the exchange energy dispersion between polar nano-regions in Pb ~x~ Bi ~4~ Ti ~3+x~ O ~12+3x~; x={2,3} relaxor ferroelectrics
 ** _Advisor:_ Dr. Luis Lascano
 
@@ -48,7 +40,7 @@ h4(name). *Escuela Politécnica Nacional*, Quito - Ecuador
 h4(name). *German School*, Quito - Ecuador
 
 * German Abitur %(date)May 2006%
-* Eduadorian High School Diploma %(date)Jun 2005%
+* Eduadorian High School Diploma %(date)June 2005%
 
 </div>
 </section>
@@ -56,6 +48,7 @@ h4(name). *German School*, Quito - Ecuador
 <section>
 h3. Honors and Awards
 
+* Danced for Ecuador in WDSF World DanceSport Championship Standard, Australia %(date)2012%
 * Physics Olympiad 1 ^st^ place, *Escuela Politécnica Nacional*, Ecuador %(date)2010%
 * Bronze Medal for Academic performance, *German School Quito*, Ecuador %(date)2005%
 * PAD Preisträger, *Kultusminister Konferenz*, Germany %(date)2003%
@@ -68,22 +61,23 @@ h3. Academic Experience
 <div class="organization">
 h4(name). *Universidad Central del Ecuador*, Quito - Ecuador
 
-* Researcher in the Molecular Symmetries and Quantum Chemistry Group %(date)Sep 2012 - present%
+* Trainee in the Molecular Symmetries and Quantum Chemistry Group %(date)Sep 2012 - present%
 
 </div>
 
 <div class="organization">
 h4(name). *Escuela Politécnica Nacional*, Quito - Ecuador
 
-* Student %(date)Oct 2006 - Sep 2012%
-* Laboratory & teacher's Assistant %(date)Aug 2011 - Jun 2012%
+* Student %(date)Oct. 2006 - Sept. 2012%
+* Laboratory & teacher's Assistant %(date)Aug. 2011 - June 2012%
+* Teacher's Assitant %(date)Sept. 2010 - Feb. 2011%
 
 </div>
 
 <div class="organization">
 h4(name). *International Center for Theoretical Physics*, Trieste - Italy
 
-* Invited Student %(date)Feb 20 - Mar 2, 2012%
+* Invited Student %(date)Feb. 20 - Mar. 2, 2012%
 
 </div>
 </section>
@@ -91,14 +85,21 @@ h4(name). *International Center for Theoretical Physics*, Trieste - Italy
 <section>
 h3. Conference Presentations
 
-# *Nájera, O.*: ``Phase transitions in random interaction Ising-like models. Case study relaxor ferroelectrics'' *In:* XVI ELAVIO, _Latin American School in Operations Research_, Feb 2012.
+# *O. Nájera*, L. Lascano: ``Phase transitions in random interaction Ising-like models. Case study relaxor ferroelectrics'' *In:* XVI ELAVIO, _Latin American School in Operations Research_, Feb. 2012
+
+</section>
+
+<section>
+h3. Posters
+
+# *O. Najera*, L. Lascano:``Estimation of the exchange interaction dispersion between PNR in relaxor ferroelectrics'' Awarded poster *In:* NanoAndes, Quito-Ecuador, Nov. 2012
 
 </section>
 
 <section>
 h3. Other Publications
 
-# *Nájera, O.*: ``Estimation, by computer simulation, of the exchange energy dispersion between polar nano-regions in Pb ~x~ Bi ~4~ Ti ~3+x~ O ~12+3x~; x={2,3} relaxor ferroelectrics'', Diploma Thesis(Spanish). Department of Physics - Escuela Politécnica Nacional, September 2012.
+# *Nájera, O.*: ``Estimation, by computer simulation, of the exchange energy dispersion between polar nano-regions in Pb ~x~ Bi ~4~ Ti ~3+x~ O ~12+3x~; x={2,3} relaxor ferroelectrics'', Diploma Thesis(Spanish). Department of Physics - Escuela Politécnica Nacional, Sept. 2012
 
 </section>
 
@@ -106,9 +107,9 @@ h3. Other Publications
 h3. Computer Skills
 
 * *Programming Languages:* C/C++, Python, Bash, Php, Matlab/Octave
-* *Libraries & packages:* GSL, Scipy, Numpy
+* *Libraries & packages:* GSL, SciPy, NumPy
 * *Content-description languages:* HTML, CSS, LATEX
-* *Operating Systems:*  Linux(Gentoo)
+* *Operating Systems:*  Linux(Gentoo & Ubuntu)
 * *Graphic design:* Gimp, Inkscape, Blender
 
 </section>
@@ -127,5 +128,6 @@ h3. Outside Interests
 
 * Ballroom Dancing
 * Cycling
+* Swimming
 
 </section>
