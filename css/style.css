@@ -2,7 +2,7 @@
 body {
   font: normal normal 14px Georgia, Utopia, 'Palatino Linotype', Palatino, serif;
   color: #000000;
-  background: #000000 url(http://themes.googleusercontent.com/image?id=1uK3asOUTXGHOxBp5SzQi9-XgNXEKZ36dz3ulQ9zIinkHa_wkts_jwC2cKfeghsEwd8xV) no-repeat fixed top center /* Credit: enot-poloskun (http://www.istockphoto.com/googleimages.php?id=2374652&platform=blogger) */;
+  background: #000000 url('http://themes.googleusercontent.com/image?id=1uK3asOUTXGHOxBp5SzQi9-XgNXEKZ36dz3ulQ9zIinkHa_wkts_jwC2cKfeghsEwd8xV') no-repeat fixed top center /* Credit: enot-poloskun (http://www.istockphoto.com/googleimages.php?id=2374652&platform=blogger) */;
   padding: 0 40px 40px 40px;
   margin: 20px auto;
   width:860px;
@@ -12,20 +12,20 @@ body {
   padding: 10px;
 }
 a:link {
-text-decoration:none;
-color: #007b7e;
+ text-decoration:none;
+ color: #007b7e;
 }
 a:visited {
-text-decoration:none;
-color: #848484;
+ text-decoration:none;
+ color: #848484;
 }
 a:hover {
-text-decoration:underline;
-color: #00f6c2;
+ text-decoration:underline;
+ color: #00f6c2;
 }
 /*Header*/
 header{
-  background: #6198ca url(http://www.blogblog.com/1kt/simple/gradients_light.png) repeat-x scroll;
+  background: #6198ca url('http://www.blogblog.com/1kt/simple/gradients_light.png') repeat-x scroll;
   padding: 10px 30px;
   margin: 0px;
   font-size:120%;
@@ -33,54 +33,51 @@ header{
   text-shadow: 1px 2px 3px rgba(0,0,0,0.5);
 }
 header h1,h2 {
-	margin:10px;
+  margin:10px;
 }
 #logo{
   height:190px;
   position:relative;
   left:-55px;
-	top: -35px;
+  top: -35px;
   float:left;
 }
 /*Main Content*/
 #NavPanel, #main{
   font-size:110%;
   line-height:1.3;
-	margin: 0px;
-  %border:solid;
-}
-
-#NavPanel{
-  float: right;
-  width: 200px;
-  padding:0px;
-}
-
-#NavPanel ul{
-  background: #6198ca;
   margin: 0px;
-  padding: 0px;
-  list-style-type: none;
-}
-#NavPanel ul ul{
-  background: #ebf8ff;
   padding: 0px 15px;
-  
+  %border: 1px solid;
 }
 #main{
   border-right: 1px solid #dbeaed;
   width: 600px;
-	padding: 0px 15px;
   float:left;
 }
 h3 {
-	border-bottom: 1px solid black;
+  border-bottom: 1px solid black;
 }
+/* Navigation Panel*/
+#NavPanel{
+  float: right;
+  width: 170px;
+}
+#NavPanel h2{
+  text-transform: uppercase;
+  font-size: 14px;
+  margin: 0px;
+}
+#NavPanel ul{
+  padding: 0px 0px 0px 15px;
+  list-style-type: square;
+}
+
 /*Footer*/
 footer {
- clear:both;
- padding: 10px 25px;
- border-top: 1px solid #dbeaed;
+  clear:both;
+  padding: 10px 25px;
+  border-top: 1px solid #dbeaed;
 }
 
 /*Page Specific*/
@@ -105,7 +102,7 @@ section ul{
   list-style-type: square;
 }
 
-/**/
+/*Agenda*/
 #agenda {
   border: 0;
   width: 100%;
