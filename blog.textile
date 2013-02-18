@@ -1,6 +1,0 @@
----
-layout: default
-title: Blog - Under Construction
----
-
-h1. Under Construction

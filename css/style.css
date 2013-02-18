@@ -52,16 +52,16 @@ header h1,h2 {
 }
 #main{
   border-right: 1px solid #dbeaed;
-  width: 600px;
+  width: 610px;
   float:left;
 }
-h3 {
+#main h1, #main h3 {
   border-bottom: 1px solid black;
 }
 /* Navigation Panel*/
 #NavPanel{
   float: right;
-  width: 170px;
+  width: 165px;
 }
 #NavPanel h2{
   text-transform: uppercase;

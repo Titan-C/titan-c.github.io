@@ -5,17 +5,7 @@ title: CV
 
 h1. Óscar Andrés Nájera Ocampo
 
-h5. "PDF file":https://docs.google.com/open?id=0B8uqWJ7n_lK-NzZidWF0NE9WLU0
-
-
-<section>
-h3. Contact Information
-
-* *e-mail:* najera (dot) oscar (at) gmail (dot) com
-* *Facebook:* "najera.oscar":http://www.facebook.com/najera.oscar
-* *LinkedIn:* "Óscar Nájera":http://www.linkedin.com/pub/%C3%B3scar-n%C3%A1jera/4b/73/445
-
-</section>
+h5. "PDF file":https://dl.dropbox.com/u/29005867/najera-cv.pdf
 
 <section>
 h3. Research Interest
@@ -61,7 +51,7 @@ h3. Academic Experience
 <div class="organization">
 h4(name). *Universidad Central del Ecuador*, Quito - Ecuador
 
-* Trainee in the Molecular Symmetries and Quantum Chemistry Group %(date)Sep 2012 - present%
+* Trainee in the Molecular Symmetries and Quantum Chemistry Group %(date)Sept. 2012 - present%
 
 </div>
 
