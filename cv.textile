@@ -18,13 +18,6 @@ Condensed Matter, Solid State Physics, Statistical Mechanics, Mathematical & The
 h3. Education
 
 <div class="organization">
-h4(name). *Eidgenössische Technische Hochschule(ETH)*, Zurich - Switzerland
-
-* Doctoral Student %(date)Apr. 2012%
-
-</div>
-
-<div class="organization">
 h4(name). *Escuela Politécnica Nacional*, Quito - Ecuador
 
 * Physics Diploma %(date)Oct. 2006 - Sept. 2012%
@@ -56,6 +49,20 @@ h3. Honors and Awards
 h3. Academic Experience
 
 <div class="organization">
+h4(name). *Swiss Federal Institute of Technology(ETH)*, Zurich - Switzerland
+
+* Visitor at Institute for Building Material (IfB). Training in Lattice Boltzmann Methods for fluid dynamics %(date)Apr. 5 - May 15, 2013%
+
+</div>
+
+<div class="organization">
+h4(name). *International Center for Theoretical Physics*, Trieste - Italy
+* Invited Student(SMR 2503) %(date)Mar. 11 - 22, 2013%
+* Invited Student(SMR 2330) %(date)Feb. 20 - Mar. 2, 2012%
+
+</div>
+
+<div class="organization">
 h4(name). *Universidad Central del Ecuador*, Quito - Ecuador
 
 * Trainee in the Molecular Symmetries and Quantum Chemistry Group %(date)Sept. 2012 - Mar. 2013%
@@ -71,12 +78,6 @@ h4(name). *Escuela Politécnica Nacional*, Quito - Ecuador
 
 </div>
 
-<div class="organization">
-h4(name). *International Center for Theoretical Physics*, Trieste - Italy
-* Invited Student(SMR 2503) %(date)Mar. 11 - 22, 2013%
-* Invited Student(SMR 2330) %(date)Feb. 20 - Mar. 2, 2012%
-
-</div>
 </section>
 
 <section>
