@@ -37,7 +37,7 @@ h4(name). *German School*, Quito - Ecuador
 
 <section>
 h3. Honors and Awards
-
+* Paris-Saclay Master Scholarship, Campus Paris-Saclay, France %(date)2013-2014%
 * Danced for Ecuador in WDSF World DanceSport Championship Standard, Australia %(date)2012%
 * Physics Olympiad 1 ^st^ place, *Escuela Politécnica Nacional*, Ecuador %(date)2010%
 * Bronze Medal for Academic performance, *German School Quito*, Ecuador %(date)2005%
@@ -107,7 +107,7 @@ h3. Computer Skills
 * *Programming Languages:* C/C++, Python, Bash, Php, Matlab/Octave
 * *Libraries & packages:* GSL, SciPy, NumPy
 * *Content-description languages:* HTML, CSS, LATEX
-* *Operating Systems:*  Linux(Gentoo & Ubuntu)
+* *Operating Systems:*  Linux(Gentoo & Arch & Ubuntu)
 * *Graphic design:* Gimp, Inkscape, Blender
 
 </section>
@@ -118,6 +118,7 @@ h3. Languages
 * *Spanish:* Native speaker
 * *English:* Fluent speaker
 * *German:* Fluent speaker
+* *French:* Basic
 
 </section>
 
