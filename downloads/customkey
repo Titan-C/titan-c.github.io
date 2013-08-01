@@ -1,0 +1,39 @@
+partial alphanumeric_keys
+xkb_symbols "dvorakOscar" {
+
+    name[Group1]= "Spanish (Dvorak Programer us_es oscar)";
+
+    include "es(dvorak)"
+    //             Unmodified       Shift           AltGr            Shift+AltGr
+    // symbols row, left side
+    key <TLDE> { [ dollar,          degree, ordfeminine] };
+    key <AE01> { [ ampersand,       percent	] };
+    key <AE02> { [ bracketleft,     7		] };
+    key <AE03> { [ braceleft,       5		] };
+    key <AE04> { [ braceright,      3		] };
+    key <AE05> { [ parenleft,       1		] };
+    key <AE06> { [ equal,           9		] };
+
+    // symbols row, right side
+    key <AE07> { [ asterisk,        0		] };
+    key <AE08> { [ parenright,      2		] };
+    key <AE09> { [ plus,            4		] };
+    key <AE10> { [ bracketright,    6		] };
+    key <AE11> { [ exclam,          8,	exclamdown] };
+    key <AE12> { [ numbersign,      at		] };
+    key <BKSP> { [ BackSpace,       BackSpace	] };
+
+
+    key <AD02> { [      comma, semicolon, less					] };
+    key <AD03> { [          w, W	, greater				] };
+    key <AD08> { [          c, C,         ccedilla, Ccedilla			] };
+    key <AD11> { [ slash,           question,       questiondown                ] };
+    key <AD12> { [ minus,           underscore					] };
+
+    key <AC11> { [     ntilde, Ntilde	] };
+    key <BKSL> { [ backslash,  bar      ] };
+
+    key <AB01> { [ apostrophe,       quotedbl, dead_grave, dead_circumflex] };
+    key <AB08> { [ dead_acute, dead_diaeresis, dead_grave, dead_circumflex] };
+
+};
