@@ -18,6 +18,13 @@ Condensed Matter, Solid State Physics, Statistical Mechanics, Mathematical & The
 h3. Education
 
 <div class="organization">
+h4(name). *École Normale Supérieure de Cachan*, Cachan - France
+
+* MONABIPHOT M2 Master Student %(date)Sept. 2013 - Present%
+
+</div>
+
+<div class="organization">
 h4(name). *Escuela Politécnica Nacional*, Quito - Ecuador
 
 * Physics Diploma %(date)Oct. 2006 - Sept. 2012%
@@ -33,11 +40,12 @@ h4(name). *German School*, Quito - Ecuador
 * Eduadorian High School Diploma %(date)June 2005%
 
 </div>
+
 </section>
 
 <section>
 h3. Honors and Awards
-* Paris-Saclay Master Scholarship, Campus Paris-Saclay, France %(date)2013-2014%
+* Paris-Saclay Master Scholarship, *Campus Paris-Saclay*, France %(date)2013%
 * Danced for Ecuador in WDSF World DanceSport Championship Standard, Australia %(date)2012%
 * Physics Olympiad 1 ^st^ place, *Escuela Politécnica Nacional*, Ecuador %(date)2010%
 * Bronze Medal for Academic performance, *German School Quito*, Ecuador %(date)2005%
