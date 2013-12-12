@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="organigram.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path3866"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3860"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient3779">
+      <stop
+         style="stop-color:#ff2f03;stop-opacity:1;"
+         offset="0"
+         id="stop3781" />
+      <stop
+         style="stop-color:#ff7458;stop-opacity:1;"
+         offset="1"
+         id="stop3783" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3779"
+       id="linearGradient3821"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(140,191.42857)"
+       x1="162.35715"
+       y1="153.79076"
+       x2="159.5"
+       y2="214.51105" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3779"
+       id="linearGradient3827"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(140,285.71428)"
+       x1="162.35715"
+       y1="153.79076"
+       x2="159.5"
+       y2="214.51105" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3779"
+       id="linearGradient3829"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(140,99.999997)"
+       x1="162.35715"
+       y1="153.79076"
+       x2="159.5"
+       y2="214.51105" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3779"
+       id="linearGradient3831"
+       gradientUnits="userSpaceOnUse"
+       x1="162.35715"
+       y1="153.79076"
+       x2="159.5"
+       y2="214.51105" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-129.28571"
+     inkscape:cy="405.71429"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="-2"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4502"
+       inkscape:export-filename="/home/oscar/Documents/MONABIPHOT_WORK/microfluidics/redbloodpre/images/organigram.png"
+       inkscape:export-xdpi="118"
+       inkscape:export-ydpi="118">
+      <g
+         transform="translate(2.8571429,0)"
+         id="g3809">
+        <rect
+           ry="34.285713"
+           y="223.79074"
+           x="174.28571"
+           height="82.85714"
+           width="228.57143"
+           id="rect3787"
+           style="fill:url(#linearGradient3829);fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="195.17297"
+           y="275.63922"
+           id="text2993"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="195.17297"
+             y="275.63922"
+             id="tspan2997">Transport</tspan></text>
+      </g>
+      <g
+         transform="translate(2.8571429,18.571454)"
+         id="g3804">
+        <rect
+           style="fill:url(#linearGradient3821);fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3791"
+           width="228.57143"
+           height="82.85714"
+           x="174.28571"
+           y="315.2193"
+           ry="34.285713" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="187.07727"
+           y="371.55997"
+           id="text3001"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3003"
+             x="187.07727"
+             y="371.55997">Protection</tspan></text>
+      </g>
+      <g
+         transform="translate(2.8571428,34.285714)"
+         id="g3799">
+        <rect
+           ry="34.285713"
+           y="409.50504"
+           x="174.28571"
+           height="82.85714"
+           width="228.57143"
+           id="rect3795"
+           style="fill:url(#linearGradient3827);fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="181.49133"
+           y="461.96878"
+           id="text3005"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3007"
+             x="181.49133"
+             y="461.96878">Regulation</tspan></text>
+      </g>
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path3847"
+         d="m 120,179.50504 0,92.85714 50,0"
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path3849"
+         d="m 100,179.50504 0,198.57143 70,0"
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path3851"
+         d="m 71.428571,179.50504 0,307.14286 98.571429,0"
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)" />
+      <g
+         transform="translate(-8.571429,-17.142857)"
+         id="g3814">
+        <rect
+           style="fill:url(#linearGradient3831);fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3009"
+           width="228.57143"
+           height="82.85714"
+           x="34.285713"
+           y="123.79076"
+           ry="34.285713" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot2985"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           transform="translate(0.57142639,5.042719)"><flowRegion
+             id="flowRegion2987"><rect
+               id="rect2989"
+               width="225.71428"
+               height="185.71428"
+               x="51.42857"
+               y="135.21933" /></flowRegion><flowPara
+             id="flowPara2991">Functions</flowPara></flowRoot>      </g>
+    </g>
+  </g>
+</svg>

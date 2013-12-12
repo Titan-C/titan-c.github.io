@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html>
+<head>
+	 <meta charset="utf-8" />
+    <meta name="viewport" content="width=1024" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />    
+    <meta name="description" content="Microfluidics Presentation on red blood cell flow" />
+    <meta name="author" content="Óscar Nájera" />
+	<link href="style.css" rel="stylesheet" />
+	
+    <title>Mimicking the flow of red blood cells</title>
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    extensions: ["tex2jax.js"],
+    jax: ["input/TeX","output/HTML-CSS"],
+    tex2jax: {inlineMath: [["$","$"],["\\(","\\)"]]}
+  });
+</script>
+<script type="text/javascript"
+  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+</head>
+<body class="impress-not-supported">
+
+<!--
+    For example this fallback message is only visible when there is `impress-not-supported` class on body.
+-->
+<div class="fallback-message">
+    <p>Your browser <b>doesn't support the features required</b> by impress.js, so you are presented with a simplified version of this presentation.</p>
+    <p>For the best experience please use the latest <b>Chrome</b>, <b>Safari</b> or <b>Firefox</b> browser.</p>
+</div>
+
+<div id="impress">
+<!-- Welcome Slide -->
+    <div id="start" class="step">
+    <header id="main">
+        <h1>Microfluidics for mimicking the flow of red blood cells in microvessels</h1>
+        </header>
+        
+        <br>
+        <div id="authors">
+        <h4>Ewa Szlapa - Oscar Najera</h4></div>
+        <div id="location">
+        <h4>ENS CACHAN 12 December 2013</h4></div>
+    </div>
+
+<!-- Introduction about blood -->
+    <div class="step" data-x="1200" data-z='-400'>
+      <header>
+    <h1>The Blood</h1>
+    <h2><i>An artificial substitute for human blood has not been found</i></h2>
+	 </header>
+	 <img src="images/organigram.png" height="400" alt="" />
+    <img src="images/bloodcomposition.jpg" height="350" alt="" />
+    </div>
+
+    <div class="step" data-x="2400" data-z='-800'>
+      <header>
+    <h1>The Red Blood Cells(RBC)</h1>
+	 </header>
+	 <figure id="discoidfig"><img src="images/biconcavediscoid.jpg" width="400" alt="" />
+	 <figcaption>Illustration of the interfacial discretization of a biconcave discoid cell.<br />
+	 <cite>Y. Sui et al., Physics of Fluids 20, 112106 (2008)</cite></figcaption></figure>
+
+	 <ul>
+	 <li>45% of blood volume</li>
+<li>Biconcave shape</li>
+<li>$8\mu m$ diameter</li>
+<li>Highly deformable</li>
+<li>Transport $O_2$ and $CO_2$</li>
+<li>Lifetime $\tau = 120$ days</li>
+</ul>
+    </div>
+
+<div class="step" data-x="3600" data-z="-1200">
+<header>
+<h1>Why Study Blood Flow?</h1>
+</header>
+<ul>
+<li>Transport function: Blood is 4.5 - 5.5 times more viscous than water.</li>
+<li>Flow through narrow capillaries, with diameter several times smaller than RBC size.</li>
+<li>Understand biophysical behavior of blood flow in vessels.</li>
+<li>Design microfluidic devices for decease diagnosis.</li>
+</ul>
+
+
+<dl>
+	<dt><b>Hemodynamics</b>: <i>blood motion and equilibrium under the action of external forces</i></dt>
+	<dd>Is the study of blood flow or the circulation.
+	It explains the physical laws that govern the flow of blood in the blood vessels.</dd>
+</dl>
+</div>
+
+
+<!-- Microfluidics -->
+
+<div class="step" data-x="4800" data-z="-1600">
+<header>
+<h1>The microfluidics experimental approach</h1>
+</header>
+<figure>
+<img src="images/microscopesetup.jpg" width="530" alt="" />
+<img src="images/mudevicecrosssec.jpg" width="308" alt="" />
+<figcaption>
+Integration of the PDMS microchannels to a confocal microparticle image velocimetry system.<br />
+<cite>R. Lima et al., Biomedical Microdevices, Vol.10(2), pp. 153-67, (2008)</cite></figcaption></figure>
+</figure>
+</div>
+
+<div class="step" data-x="4800" data-y="900" data-z="-1600">
+<header>
+<h1>The microfluidics experimental approach</h1>
+</header>
+<figure>
+<img src="images/VprofPS.jpg" width="450" height="318" alt="" />
+<img src="images/Vprofblood.jpg" width="450" height="324" alt="" />
+<figcaption>
+Velocity profiles at middle plane for physiological saline(left) and blood(right).<br />
+<cite>R. Lima et al., Biomedical Microdevices, Vol.10(2), pp. 153-67, (2008)</cite></figcaption></figure>
+</figure>
+<ul>
+<li> Physiological saline follows usual flow.</li>
+<li>Blood has a more complicated behavior.
+<ul>
+<li>Microturbulences atributed to interaction of neighbouring cells and shear rate.</li>
+<li>Cell migration into the center of the channel.</li>
+</ul>
+</li>
+</ul> 
+
+
+</div>
+<!-- Simulations -->
+<div class="step" data-x="4800" data-y="1800" data-z="-1600" data-rotate="-180">
+<header>
+<h1>Simulations</h1>
+<h2>Dynamic motion of RBC in simple shear flow</h2>
+</header>
+<figure>
+<img src="images/strechG1.87.jpg" width="420" alt="" />
+<img src="images/strechG0.0005.jpg" width="380" alt="" />
+<figcaption>Cell profile in swinging motion at $G=1.87$(left), at $G=0.0005$(right).<br />
+$G$: dimensionless shear rate.<br />
+<cite>Y. Sui et al., Physics of Fluids 20, 112106 (2008)</cite></figcaption></figure>
+</figure>
+</div>
+
+<div class="step" data-x="3600" data-y="1800" data-z="-1600" data-rotate="-180">
+<header>
+<h1>Simulations</h1>
+<h2>Dynamic motion of RBC in simple shear flow</h2>
+</header>
+<figure>
+<img src="images/lengthevolution.png" width="450" alt="" />
+<img src="images/inclinationevolution.png" width="450" alt="" />
+<figcaption>Temporal evolution of the cell's length $L_1$, width $L_2$ and thickness $L_3$(left);
+inclination(right) under various dimensionless shear rates.<br />
+<cite>Y. Sui et al., Physics of Fluids 20, 112106 (2008)</cite></figcaption></figure>
+</div>
+
+<div class="step" data-x="3600" data-y="2700" data-z="-1600" data-rotate="-180">
+<header>
+<h1>Simulations</h1>
+<h2>Blood Flow and Cell Free Layer(CFL) in microvessels</h2>
+</header>
+<figure>
+<img src="images/simchannelflow.jpg" width="449" height="229" alt="" />
+<img src="images/cellmigration.png" width="439" height="427" alt="" />
+<figcaption>RBC in Poiselle flow in a tube of diameter $D=20\mu m$. Snapshot(left), Sample trajectories
+of individual RBC(right)<br />
+<cite>D. Fedosov et al., Microcirculation, 17, pp. 615-628,(2010)</cite></figcaption></figure>
+</div>
+
+<div class="step" data-x="3600" data-y="3600" data-z="-1600" data-rotate="-180">
+<header>
+<h1>Simulations</h1>
+<h2>Blood Flow and Cell free layer in microvessels</h2>
+</header>
+<figure>
+<img src="images/CFL.png" width="887" height="402" alt="" />
+<figcaption>Typical velocity profiles of blood flow in the tubes od diameters $D=10\mu m$ (left)
+ and $D=40\mu m$ (right) for different $H_t$ values. Dashed lines correspond to plasma without any
+ cells present for the same pressure gradients. Dotted lines are the CFL thickness.<br />
+<cite>D. Fedosov et al., Microcirculation, 17, pp. 615-628,(2010)</cite></figcaption></figure>
+</div>
+
+
+<!-- Malaria -->
+<div class="step" data-x="2400" data-y="3600" data-z="-1300" data-rotate="-180">
+<header><h1> Microfluidic Modeling of Cell-Cell
+Interactions in Malaria Pathogenesis</h1></header>
+<ul>
+Investigation of:
+<li>human infections by <i>Plasmodium falciparum</i> – the pathogen responsible only for 15% of deceases
+but for 90% of fatal cases.</li>
+<li>studying the in vitro model for malaria pathogenesis, employing microfluidics which allows for
+flow experiments in channels that have the same dimensions as capillaries in the microvasculature,
+using very small sample volumes,</li>
+<li>
+how to link the adhesive interactions between host ligands (ICAM-1) and parasitized erythrocytes
+with the unique effects of blood flow in capillary-like environments.</li>
+</ul>
+<figure id="bloodparasit">
+<img src="images/bloodparasites.jpg" width="181" height="195" alt="" />
+<figcaption>Blood smear with parasites</figcaption>
+</figure>
+<p id="icamref">
+<b>ICAM-1</b> may be particularly important for mediating
+cytoadhesion in the brain.<br /> Without ICAM-1, binding to the endothelium under flow
+conditions is impaired.
+</p>
+<cite>M. Antia, T. Herricks, P.K. Pradipsinh, PLOS Pathogens, 3(7), e99,(2007)</cite>
+</div>
+
+
+<div class="step" data-x="1200" data-y="3600" data-z="-1000" data-rotate="-180">
+<header>
+<h1><b><i>Experiment</i>:</b> adhesion in a micro-channel</h1>
+</header>
+
+<figure class="red_bor">
+<ul>IRBCs on purified protein:
+<li>rolling behavior,</li>
+<li>all rolling or attached RBCs were infected.</li></ul>
+<img src="images/irbc_purified.jpg" width="402" height="151" alt="" />
+</figure>
+
+<figure class="red_bor">
+<ul>IRBCs  on mammalian cells expressing ICAM-1
+<li>rolling on the protein,</li>
+<li>several iRBCs remain statically adhered and do not roll.</li></ul>
+<img src="images/irbc_mamal.jpg" height="125" alt="" />
+</figure>
+
+<figure class="red_bor wide">
+<img src="images/adhesion_channel.jpg" width="523" height="319" alt="" class="left" />
+<br />
+<ul>
+Adhesion in constricted channel:
+<li>$5 \mu m$ tall ICAM-1–coated channel,</li>
+<li>decrease of interaction of iRBCs with adhesive proteins,</li>
+<li>the narrowest capillaries in vivo may not necessarily be the first to become obstructed with iRBCs.</li>
+</ul>
+</figure>
+
+<cite>M. Antia, T. Herricks, P.K. Pradipsinh, PLOS Pathogens, 3(7), p99,(2007)</cite>
+</div>
+
+
+<div class="step" data-y="3600" data-z="-700" data-rotate="-180">
+<header>
+<h1><b><i>Experiment</i>:</b> adhesion in branched channels</h1>
+</header>
+<figure class="red_bor high">
+<img src="images/rolling_erythrocytes.jpg" width="450" alt="" />
+<figcaption>Velocities of rolling erythrocytes upon reaching the branches vary from cell to cell.</figcaption>
+</figure>
+
+<figure class="red_bor high">
+<img src="images/attach_irbc.jpg" width="400" alt="" />
+<ul>Preferential attachment of iRBCs in regions of lower fluid shear stress:
+<li>larger number of iRBCs attach in the branches, where shear stress is lower than in the main channel.</li></ul>
+</figure>
+<cite>M. Antia, T. Herricks, P.K. Pradipsinh, PLOS Pathogens, 3(7), e99,(2007)</cite>
+</div>
+
+
+<div class="step" data-x="-1200" data-y="3600" data-z="-400" data-rotate="-180">
+<header>
+<h1>Conclusions</h1>
+</header>
+<ol>
+<li>Microfluidic devices can be fabricated to identify and possibly select cell types
+ that will most likely stabilize rolling.</li>
+ 
+<li>Taking advantage of microfluidic devices that are portable and require microliter
+volumes of samples, future applications should be possible at field sites, using patient samples.</li>
+
+<li>The microfluidic devices can be mounted on a microscope, and data on single cells
+can be collected as still photos or as movies on a personal computer for further detailed analysis.</li>
+
+<li>The ability of microfluidic devices to support both pure ligands and ligand-expressing human
+cells in culture, under high shear stress, should facilitate a detailed understanding of
+the role of the ligand environment in precipitation of capillary blockage in the microvasculature.</li>
+</ol>
+<figure><img src="images/pdms_device.jpg" width="453" height="219" alt="" /></figure>
+<cite>M. Antia, T. Herricks, P.K. Pradipsinh, PLOS Pathogens, 3(7), e99,(2007)</cite>
+</div>
+
+
+<div class="step" data-x="1500" data-y="1500" data-scale="2">
+<header>
+<h1>Thank you for your attention</h1>
+</header>
+<video controls loop autoplay preload="auto">
+<source src="images/dropflow.ogv" type="video/ogg">
+<source src="images/dropflow.mp4" type="video/mp4">
+
+</video>
+</div>
+
+
+<div id="overview" class="step" data-x="2100" data-y="1500" data-scale="5"></div>
+</div>
+
+
+
+<script src="../../../js/impress.js"></script>
+<script>impress().init();</script>
+
+</body>
+</html>
