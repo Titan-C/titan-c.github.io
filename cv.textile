@@ -20,7 +20,7 @@ h3. Education
 <div class="organization">
 h4(name). *École Normale Supérieure de Cachan*, Cachan - France
 
-* MONABIPHOT M2 Master Student %(date)Sept. 2013 - Present%
+* M2 Master in Molecular Nano- bio-photonics (MONABIPHOT) %(date)Sept. 2013 - Present%
 
 </div>
 
@@ -28,7 +28,7 @@ h4(name). *École Normale Supérieure de Cachan*, Cachan - France
 h4(name). *Escuela Politécnica Nacional*, Quito - Ecuador
 
 * Physics Diploma %(date)Oct. 2006 - Sept. 2012%
-** _Thesis Topic:_ Estimation, by computer simulation, of the exchange energy dispersion between polar nano-regions in Pb ~x~ Bi ~4~ Ti ~3+x~ O ~12+3x~; x={2,3} relaxor ferroelectrics
+** _Thesis Topic:_ Estimation, by computer simulation, of the exchange energy dispersion between polar nano-regions in $Pb_xBi_4Ti_{3+x}O_{12+3x}; x=\{2,3\}$ relaxor ferroelectrics
 ** _Advisor:_ Dr. Luis Lascano
 
 </div>
@@ -105,7 +105,7 @@ h3. Posters
 <section>
 h3. Other Publications
 
-# *Nájera, O.*: ``Estimation, by computer simulation, of the exchange energy dispersion between polar nano-regions in Pb ~x~ Bi ~4~ Ti ~3+x~ O ~12+3x~; x={2,3} relaxor ferroelectrics'', Diploma Thesis(Spanish). Department of Physics - Escuela Politécnica Nacional, Sept. 2012
+# *Nájera, O.*: ``Estimation, by computer simulation, of the exchange energy dispersion between polar nano-regions in $Pb_xBi_4Ti_{3+x}O_{12+3x}; x=\{2,3\}$ relaxor ferroelectrics'', Diploma Thesis(Spanish). Department of Physics - Escuela Politécnica Nacional, Sept. 2012
 
 </section>
 
