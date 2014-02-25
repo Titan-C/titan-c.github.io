@@ -30,10 +30,10 @@ xkb_symbols "dvorakOscar" {
     key <AD11> { [ slash,           question,       questiondown                ] };
     key <AD12> { [ minus,           underscore					] };
 
-    key <AC11> { [     ntilde, Ntilde	] };
+    key <AC11> { [ dead_acute, dead_diaeresis, dead_grave, dead_circumflex] };
     key <BKSL> { [ backslash,  bar      ] };
 
     key <AB01> { [ apostrophe,       quotedbl, dead_grave, dead_circumflex] };
-    key <AB08> { [ dead_acute, dead_diaeresis, dead_grave, dead_circumflex] };
+    key <AB08> { [     ntilde, Ntilde	] };
 
 };
