@@ -57,6 +57,12 @@ h3. Honors and Awards
 h3. Academic Experience
 
 <div class="organization">
+h4(name). *Université Paris Sud*, Orsay - France
+* M2 Internship at Laboratoire de Physique des Solides. Study of spin-orbit effects in the Mott-Hubbard metal-insulator transition %(date) Feb. 17 2014 - Present, 2014%
+
+</div>
+
+<div class="organization">
 h4(name). *Swiss Federal Institute of Technology(ETH)*, Zurich - Switzerland
 
 * Visitor at Institute for Building Material (IfB). Training in Lattice Boltzmann Methods for fluid dynamics %(date)Apr. 5 - May 15, 2013%
@@ -65,9 +71,11 @@ h4(name). *Swiss Federal Institute of Technology(ETH)*, Zurich - Switzerland
 
 <div class="organization">
 h4(name). *International Center for Theoretical Physics*, Trieste - Italy
-* Invited Student(SMR 2503) %(date)Mar. 11 - 22, 2013%
-* Invited Student(SMR 2330) %(date)Feb. 20 - Mar. 2, 2012%
-
+* _Teaching Assistant_  ``Workshop on Advanced Techniques for Scientific Programming and
+Management of Open Source Software packages'' SMR 2574 %(date) Mar. 10 - 21, 2014%
+* _Invited Student_ ``Workshop on Computer Programming and Advanced Tools for Scientific
+    Research Work'' SMR 2503 %(date) 11 - 22, 2013%
+* _Invited Student_ ``Advanced School on Scientific Software Development'' SMR 2330 %(date)Feb. 20 - Mar. 2, 2012%
 </div>
 
 <div class="organization">
@@ -126,7 +134,7 @@ h3. Languages
 * *Spanish:* Native speaker
 * *English:* Fluent speaker
 * *German:* Fluent speaker
-* *French:* Basic
+* *French:* Intermediate
 
 </section>
 
