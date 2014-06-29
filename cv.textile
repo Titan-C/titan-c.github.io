@@ -45,6 +45,8 @@ h4(name). *German School*, Quito - Ecuador
 
 <section>
 h3. Honors and Awards
+
+* PhD fellowship, École Doctorale Physique en Île de France, France %(date)2014%
 * Paris-Saclay Master Scholarship, *Campus Paris-Saclay*, France %(date)2013%
 * Danced for Ecuador in WDSF World DanceSport Championship Standard, Australia %(date)2012%
 * Physics Olympiad 1 ^st^ place, *Escuela Politécnica Nacional*, Ecuador %(date)2010%
@@ -58,7 +60,7 @@ h3. Academic Experience
 
 <div class="organization">
 h4(name). *Université Paris Sud*, Orsay - France
-* M2 Internship at Laboratoire de Physique des Solides. Study of spin-orbit effects in the Mott-Hubbard metal-insulator transition %(date) Feb. 17 2014 - Present, 2014%
+* M2 Internship at Laboratoire de Physique des Solides. Study of spin-orbit effects in the Mott-Hubbard metal-insulator transition %(date)Feb. 17 2014 - Present, 2014%
 
 </div>
 
@@ -72,9 +74,9 @@ h4(name). *Swiss Federal Institute of Technology(ETH)*, Zurich - Switzerland
 <div class="organization">
 h4(name). *International Center for Theoretical Physics*, Trieste - Italy
 * _Teaching Assistant_  ``Workshop on Advanced Techniques for Scientific Programming and
-Management of Open Source Software packages'' SMR 2574 %(date) Mar. 10 - 21, 2014%
+Management of Open Source Software packages'' SMR 2574 %(date)Mar. 10 - 21, 2014%
 * _Invited Student_ ``Workshop on Computer Programming and Advanced Tools for Scientific
-    Research Work'' SMR 2503 %(date) 11 - 22, 2013%
+    Research Work'' SMR 2503 %(date)Mar. 11 - 22, 2013%
 * _Invited Student_ ``Advanced School on Scientific Software Development'' SMR 2330 %(date)Feb. 20 - Mar. 2, 2012%
 </div>
 
@@ -106,7 +108,11 @@ h3. Conference Presentations
 <section>
 h3. Posters
 
-# *O. Najera*, L. Lascano:``Estimation of the exchange interaction dispersion between PNR in relaxor ferroelectrics'' Awarded poster *In:* NanoAndes, Quito-Ecuador, Nov. 2012
+# *O. Nájera*, M. Civelli, M. Rozenberg, "Spin-orbit effect in the
+Mott-Hubbard metal-insulator transition", *At:* LEES 2014, Amboise-France
+June 2014
+
+# *O. Nájera*, L. Lascano:``Estimation of the exchange interaction dispersion between PNR in relaxor ferroelectrics'' Awarded poster *In:* NanoAndes, Quito-Ecuador, Nov. 2012
 
 </section>
 
