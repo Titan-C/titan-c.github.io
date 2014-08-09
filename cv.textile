@@ -108,10 +108,7 @@ h3. Conference Presentations
 <section>
 h3. Posters
 
-# *O. Nájera*, M. Civelli, M. Rozenberg, "Spin-orbit effect in the
-Mott-Hubbard metal-insulator transition", *At:* LEES 2014, Amboise-France
-June 2014
-
+# *O. Nájera*, M. Civelli, M. Rozenberg, "Spin-orbit effect in the Mott-Hubbard metal-insulator transition", *At:* LEES 2014, Amboise-France June 2014
 # *O. Nájera*, L. Lascano:``Estimation of the exchange interaction dispersion between PNR in relaxor ferroelectrics'' Awarded poster *In:* NanoAndes, Quito-Ecuador, Nov. 2012
 
 </section>
