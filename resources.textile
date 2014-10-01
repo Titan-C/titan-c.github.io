@@ -8,7 +8,7 @@ h1. Resources
 <section>
 h3. Keyboard
 
-* Personal version of Dvorak keyboard layout "Download":downloads/customkey
+* Personal version of Dvorak keyboard layout "Download":https://raw.githubusercontent.com/Titan-C/helpful_scripts/master/customkeysymbols
 * Ktouch layout "Download":downloads/es(dvorakOscar).xml
 
 </section>
