@@ -10,17 +10,30 @@ h5. "PDF file":https://dl.dropbox.com/u/29005867/najera-cv.pdf
 <section>
 h3. Research Interest
 
-Condensed Matter, Solid State Physics, Statistical Mechanics, Mathematical & Theoretical Physics, Scientific Programming
-
+Condensed Matter, Solid State Physics, Strongly Correlated Electron systems,
+Statistical Mechanics, Mathematical & Theoretical Physics, Scientific
+Programming & computational systems analysis
 </section>
 
 <section>
 h3. Education
 
 <div class="organization">
+h4(name). *Université Paris Sud*, Orsay - France
+
+* PhD in Strongly Correlated Electron Systems %(date)Sept. 2014 - Present%
+    Theory Group at Laboratoire de Physique des Solides
+
+</div>
+
+<div class="organization">
 h4(name). *École Normale Supérieure de Cachan*, Cachan - France
 
-* M2 Master in Molecular Nano- bio-photonics (MONABIPHOT) %(date)Sept. 2013 - Present%
+* M2 Master in Molecular Nano- bio-photonics (MONABIPHOT) %(date)Sept. 2013 -
+  Sept. 2014%
+** _Thesis Topic:_ Study of spin-orbit
+effects in the Mott-Hubbard metal-insulator transition
+** _Advisor:_ Dr. Marcello Civelli and Dr. Marcello Rozenberg
 
 </div>
 
@@ -60,7 +73,10 @@ h3. Academic Experience
 
 <div class="organization">
 h4(name). *Université Paris Sud*, Orsay - France
-* M2 Internship at Laboratoire de Physique des Solides. Study of spin-orbit effects in the Mott-Hubbard metal-insulator transition %(date)Feb. 17 2014 - Present, 2014%
+* M2 Internship at Laboratoire de Physique des Solides.
+Study of spin-orbit
+effects in the Mott-Hubbard metal-insulator transition %(date)Feb. 17, 2014 -
+July 11, 2014%
 
 </div>
 
