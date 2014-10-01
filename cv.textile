@@ -29,8 +29,8 @@ h4(name). *Université Paris Sud*, Orsay - France
 <div class="organization">
 h4(name). *École Normale Supérieure de Cachan*, Cachan - France
 
-* M2 Master in Molecular Nano- bio-photonics (MONABIPHOT) %(date)Sept. 2013 -
-  Sept. 2014%
+* M2 Master in Molecular Nano- bio-photonics (MONABIPHOT) %(date)Sept. 2013
+- Sept. 2014%
 ** _Thesis Topic:_ Study of spin-orbit
 effects in the Mott-Hubbard metal-insulator transition
 ** _Advisor:_ Dr. Marcello Civelli and Dr. Marcello Rozenberg

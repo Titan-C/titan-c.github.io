@@ -14,7 +14,10 @@ a:visited {
 body {
 	font: normal normal 13px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
 	color: #4c4c4c;
-	background: #000000 url('http://themes.googleusercontent.com/image?id=0BwVBOzw_-hbMMzAxZTkzM2EtZDc5ZS00YzJhLTgwMjAtYzIzNTMwMmZkYTI5') no-repeat fixed top center;
+	background: #ffffff
+url('http://themes.googleusercontent.com/image?id=
+0BwVBOzw_-hbMMzAxZTkzM2EtZDc5ZS00YzJhLTgwMjAtYzIzNTMwMmZkYTI5') no-repeat fixed
+top center;
 	padding: 20px 0px;
 	margin: 10px auto;
 	max-width: 940px;
