@@ -1,85 +1,20 @@
 <!DOCTYPE html>
 <html>
-<head>
- <meta charset="utf-8" />
- <meta name="author" content="Óscar Nájera" />
 
- <link href="css/style.css" rel="stylesheet" />
- <title>{{page.title}}</title>
+  {% include head.html %}
 
- <!-- Google Analytics -->
-<script>
+  <body>
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-32898234-1']);
-  _gaq.push(['_trackPageview']);
+    {% include header.html %}
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-  tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
-});
-</script>
-<script type="text/javascript"
-  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
-</head>
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
 
-<body>
-<div id="content">
+    {% include footer.html %}
 
- <!-- Header -->
- <header>
- <h1>My Personal Website</h1>
- <h2>Thoughts of a scientist, dancer & fountain pen writer</h2>
- </header>
+  </body>
 
- <!-- Top bar navigation -->
- <aside id="NavPanel">
-  <ul>
-   <li><a href="index.html">About Me</a>
-     <ul>
-      <li><a href="cv.html">CV</a></li>
-      <li><a href="links.html">Links</a></li>
-      <li><a href="http://github.com/Titan-C">Fork me on Github</a></li>
-     </ul>
-   </li>
-   <li><a href="http://titan-c.blogspot.com">Blog</a></li>
-   <li><a href="portfolio.html">Portfolio</a>
-     <ul>
-       <li><a href="resources.html">Resources</a></li>
-     </ul>
-   </li>
-   <li><a href="contact.html">Contact</a></li>
-  </ul>
- </aside>
-
- <div id="content-inner">
- <!-- Main Content -->
- <div id="main">
-  {{content}}
- </div>
-
-
- <div style="clear: both;"></div>
- </div>
-
- <!-- Footer -->
- <footer>
-  <a href="http://validator.w3.org/check?uri=referer">
-   <img src="images/valid-html5.png" alt="This page is Valid HTML5 per W3C validator service linked here!" />
-  </a>
-  <a href="http://jigsaw.w3.org/css-validator/check/referer">
-   <img style="border:0;width:88px;height:31px"
-        src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
-        alt="Valid CSS!" />
-  </a>
-</footer>
-</div>
-</body>
 </html>

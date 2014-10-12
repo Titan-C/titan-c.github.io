@@ -1,21 +1,18 @@
 ---
-layout: default
+layout: page
 title: CV
 ---
 
-h1. Óscar Andrés Nájera Ocampo
-
 h5. "PDF file":https://dl.dropbox.com/u/29005867/najera-cv.pdf
 
-<section>
+
 h3. Research Interest
 
 Condensed Matter, Solid State Physics, Strongly Correlated Electron systems,
 Statistical Mechanics, Mathematical & Theoretical Physics, Scientific
 Programming & computational systems analysis
-</section>
 
-<section>
+
 h3. Education
 
 <div class="organization">
@@ -29,8 +26,7 @@ h4(name). *Université Paris Sud*, Orsay - France
 <div class="organization">
 h4(name). *École Normale Supérieure de Cachan*, Cachan - France
 
-* M2 Master in Molecular Nano- bio-photonics (MONABIPHOT) %(date)Sept. 2013
-- Sept. 2014%
+* M2 Master in Molecular Nano- bio-photonics (MONABIPHOT) %(date)Sept. 2013 - Sept. 2014%
 ** _Thesis Topic:_ Study of spin-orbit
 effects in the Mott-Hubbard metal-insulator transition
 ** _Advisor:_ Dr. Marcello Civelli and Dr. Marcello Rozenberg
@@ -54,9 +50,8 @@ h4(name). *German School*, Quito - Ecuador
 
 </div>
 
-</section>
 
-<section>
+
 h3. Honors and Awards
 
 * PhD fellowship, École Doctorale Physique en Île de France, France %(date)2014%
@@ -66,17 +61,15 @@ h3. Honors and Awards
 * Bronze Medal for Academic performance, *German School Quito*, Ecuador %(date)2005%
 * PAD Preisträger, *Kultusminister Konferenz*, Germany %(date)2003%
 
-</section>
 
-<section>
+
 h3. Academic Experience
 
 <div class="organization">
 h4(name). *Université Paris Sud*, Orsay - France
 * M2 Internship at Laboratoire de Physique des Solides.
-Study of spin-orbit
-effects in the Mott-Hubbard metal-insulator transition %(date)Feb. 17, 2014 -
-July 11, 2014%
+Study of spin-orbit effects in the Mott-Hubbard metal-insulator transition
+%(date)Feb. 17, 2014 - July 11, 2014%
 
 </div>
 
@@ -93,7 +86,9 @@ h4(name). *International Center for Theoretical Physics*, Trieste - Italy
 Management of Open Source Software packages'' SMR 2574 %(date)Mar. 10 - 21, 2014%
 * _Invited Student_ ``Workshop on Computer Programming and Advanced Tools for Scientific
     Research Work'' SMR 2503 %(date)Mar. 11 - 22, 2013%
-* _Invited Student_ ``Advanced School on Scientific Software Development'' SMR 2330 %(date)Feb. 20 - Mar. 2, 2012%
+* _Invited Student_ ``Advanced School on Scientific Software Development'' SMR
+2330 %(date)Feb. 20 - Mar. 2, 2012%
+
 </div>
 
 <div class="organization">
@@ -112,31 +107,23 @@ h4(name). *Escuela Politécnica Nacional*, Quito - Ecuador
 
 </div>
 
-</section>
 
-<section>
 h3. Conference Presentations
 
 # *O. Nájera*, L. Lascano: ``Phase transitions in random interaction Ising-like models. Case study relaxor ferroelectrics'' *In:* XVI ELAVIO, _Latin American School in Operations Research_, Feb. 2012
 
-</section>
 
-<section>
 h3. Posters
 
 # *O. Nájera*, M. Civelli, M. Rozenberg, "Spin-orbit effect in the Mott-Hubbard metal-insulator transition", *At:* LEES 2014, Amboise-France June 2014
 # *O. Nájera*, L. Lascano:``Estimation of the exchange interaction dispersion between PNR in relaxor ferroelectrics'' Awarded poster *In:* NanoAndes, Quito-Ecuador, Nov. 2012
 
-</section>
 
-<section>
 h3. Other Publications
 
 # *Nájera, O.*: ``Estimation, by computer simulation, of the exchange energy dispersion between polar nano-regions in $Pb_xBi_4Ti_{3+x}O_{12+3x}; x=\{2,3\}$ relaxor ferroelectrics'', Diploma Thesis(Spanish). Department of Physics - Escuela Politécnica Nacional, Sept. 2012
 
-</section>
 
-<section>
 h3. Computer Skills
 
 * *Programming Languages:* C/C++, Python, Bash, Php, Matlab/Octave
@@ -145,9 +132,7 @@ h3. Computer Skills
 * *Operating Systems:*  Linux(Gentoo & Arch & Ubuntu)
 * *Graphic design:* Gimp, Inkscape, Blender
 
-</section>
 
-<section>
 h3. Languages
 
 * *Spanish:* Native speaker
@@ -155,13 +140,10 @@ h3. Languages
 * *German:* Fluent speaker
 * *French:* Intermediate
 
-</section>
 
-<section>
 h3. Outside Interests
 
 * Ballroom Dancing
 * Cycling
 * Swimming
 
-</section>

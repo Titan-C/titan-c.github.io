@@ -1,0 +1,85 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+        <ul class="contact-list">
+          <li>{{ site.owner.name }}</li>
+          <li><a href="mailto:{{ site.owner.email }}"><i class="fa fa-envelope"></i> {{ site.owner.email }}</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-2">
+        <ul class="social-media-list">
+          {% if site.owner.github %}
+          <li><i class="fa fa-github"></i>
+            <a href="https://github.com/{{ site.owner.github }}">
+            <span class="username">{{ site.owner.github }}</span>
+            </a>
+          </li>
+          {% endif %}
+
+          {% if site.owner.scholar %}
+          <li><i class="fa fa-graduation-cap"></i>
+            <a href="http://scholar.google.fr/citations?user={{ site.owner.scholar }}">
+            <span class="username">{{ site.owner.name }}</span>
+            </a>
+          </li>
+          {% endif %}
+
+          {% if site.owner.twitter %}
+          <li><i class="fa fa-twitter"></i>
+            <a href="https://twitter.com/{{ site.owner.twitter }}">
+            <span class="username">{{ site.owner.twitter }}</span>
+            </a>
+          </li>
+          {% endif %}
+
+          {% if site.owner.google_plus %}
+          <li><i class="fa fa-google-plus-square"></i>
+            <a href="https://google.com/{{ site.owner.google_plus }}">
+            <span class="username">{{ site.owner.google_plus }}</span>
+            </a>
+          </li>
+          {% endif %}
+
+          {% if site.owner.facebook %}
+          <li><i class="fa fa-facebook-square"></i>
+            <a href="https://facebook.com/{{ site.owner.facebook }}">
+              <span class="username">{{ site.owner.facebook }}</span>
+            </a>
+          </li>
+          {% endif %}
+
+          {% if site.owner.linkedin %}
+          <li><i class="fa fa-linkedin-square"></i>
+            <a href="https://www.linkedin.com/pub/{{ site.owner.linkedin }}">
+              <span class="username">{{ site.owner.name }}</span>
+            </a>
+          </li>
+          {% endif %}
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-3">
+        <p class="text"><i class="fa fa-quote-left fa-2x pull-left"></i>{{ site.description }}</p>
+
+          <a href="http://validator.w3.org/check?uri=referer">
+   <img src="{{ site.baseurl }}/images/valid-html5.png" alt="This page is Valid
+HTML5 per W3C
+validator service linked here!" />
+  </a>
+  <a href="http://jigsaw.w3.org/css-validator/check/referer">
+   <img style="border:0;width:88px;height:31px"
+        src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+        alt="Valid CSS!" />
+  </a>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
