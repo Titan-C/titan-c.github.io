@@ -1,2 +1,5 @@
 _site
 *~
+.directory
+.sass-cache/
+Gemfile.lock

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Website redo blog migration
+title:  Website redo and blog migration
 date:   2014-10-12
 categories: webdesign
 ---
