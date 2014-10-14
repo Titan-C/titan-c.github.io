@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Resources
+permalink: /resources/
 ---
 
 ### Linux and Open Source Projects

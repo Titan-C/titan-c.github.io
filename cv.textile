@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CV
+permalink: /cv/
 ---
 
 h5. "PDF file":https://dl.dropbox.com/u/29005867/najera-cv.pdf
