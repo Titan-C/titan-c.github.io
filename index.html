@@ -2,23 +2,28 @@
 layout: default
 ---
 
-<div class="home">
+<div class="panel panel-default">
 
-  <h1 class="page-heading">Posts</h1>
+     <div class="panel-heading">
+         <h1 class="page-heading">Posts</h1>
+    </div>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <div class="panel-body">
+        <ul class="post-list">
+            {% for post in site.posts %}
+            <li>
+                <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        <p>{{ post.content | strip_html | truncatewords:40 }}</p>
-      </li>
-    {% endfor %}
-  </ul>
+                <h2>
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                </h2>
+                <p>{{ post.content | strip_html | truncatewords:40 }}</p>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+    <div class="panel-footer">
+        <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+    </div>
 </div>

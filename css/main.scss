@@ -21,29 +21,36 @@ $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
-$on-palm:          600px;
-$on-laptop:        800px;
+/*// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "layout"
+;*/
 
-
-
-// Using media queries with like this:
-// @include media-query($palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
-@mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
+.jumbotron {
+  background-image: url('/images/back.jpg');
+  margin-bottom: 0;
 }
 
+.box {
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+}
 
+/*CV*/
+.date {
+        float: right;
+        font-weight: bold;
+}
+.organization {
+        padding: 0px 10px 1px 0px;
+        margin-top: 10px;
+        box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
 
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
-        "layout",
-        "syntax-highlighting"
-;
+        .name {
+            background: #eeeeee
+    url('http://www.blogblog.com/1kt/awesomeinc/tabs_gradient_light.png') repeat
+    scroll 0 0;
+            color: #000000;
+            border: 1px solid black;
+            padding: 8px 15px;
+        }
+}
