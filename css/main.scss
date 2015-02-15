@@ -3,37 +3,14 @@
 ---
 @charset "utf-8";
 
-
-
-// Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
-
-$spacing-unit:     30px;
-
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
-
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
-
-/*// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "layout"
-;*/
-
 .jumbotron {
     background-image: url('https://lh6.googleusercontent.com/-WAEVQWPhbhw/UmBr7dQAoOI/AAAAAAAAApQ/EKmgeWQqQIc/s768-fcrop64=1,0b2f08d3f74cf4f6/bailefondo.jpg');
     margin-bottom: 0;
 }
 
-
 /*CV*/
 .date {
     float: right;
     font-weight: bold;
+    padding-right: 4px;
 }
