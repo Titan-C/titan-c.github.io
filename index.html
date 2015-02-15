@@ -5,22 +5,19 @@ layout: default
 <div class="panel panel-default">
 
      <div class="panel-heading">
-         <h1 class="page-heading">Posts</h1>
+         <h1 class="page-heading">Blog home</h1>
     </div>
 
     <div class="panel-body">
-        <ul class="post-list col-lg-8 col-md-10">
+        <div class="list-group col-lg-8 col-md-10">
             {% for post in site.posts %}
-            <li>
+            <a class="list-group-item" href="{{ post.url | prepend: site.baseurl }}">
+                <h2 class="list-group-item-heading">{{ post.title }}</h2>
                 <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-                <h2>
-                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                </h2>
-                <p>{{ post.content | strip_html | truncatewords:40 }}</p>
-            </li>
+                <p class="list-group-item-text">{{ post.content | strip_html | truncatewords:40 }}</p>
+            </a>
             {% endfor %}
-        </ul>
+        </div>
     </div>
 
     <div class="panel-footer">
