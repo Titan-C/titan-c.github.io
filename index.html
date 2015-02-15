@@ -21,7 +21,7 @@ layout: default
 
         <!-- Pagination links -->
         {% if paginator.total_pages > 1 %}
-        <nav>
+        <nav class="col-lg-8 col-md-10">
             <ul class="pagination">
             {% if paginator.previous_page %}
                 <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">Previous</a></li>
