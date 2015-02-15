@@ -1,5 +1,5 @@
 # Site settings
-title: Óscar's Personal Web Home
+title: Óscar's Web Home
 subtitle: Thoughts of a scientist, dancer & fountain pen writer
 
 description: > # this means to ignore newlines until "baseurl:"
@@ -13,6 +13,7 @@ owner:
     email:               najera.oscar@gmail.com
     github:             Titan-C
     google_plus:        +ÓscarNájera
+    twitter:            najeraoscar1
 #    scholar:            usC8whUAAAAJ
 #    facebook:           najera.oscar
 #    linkedin:           óscar-nájera/4b/73/445

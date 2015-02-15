@@ -22,4 +22,4 @@ most amazing combination of Art and Sport I have ever practiced. It looks good
 from the outside an it feels good from the inside, it is giving motion to
 emotion. I love to travel and thus photography and video are also a hobby of
 mine, I really like to capture places, moments, things I have seen and then be
-able to share them with others. 
+able to share them with others.

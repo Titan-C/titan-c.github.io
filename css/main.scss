@@ -27,12 +27,13 @@ $grey-color-dark:  darken($grey-color, 25%);
 ;*/
 
 .jumbotron {
-/*   background-image: url('/images/back.jpg'); */
-  margin-bottom: 0;
+    background-image: url('/images/back.jpg');
+    margin-bottom: 0;
 }
+
 
 /*CV*/
 .date {
-        float: right;
-        font-weight: bold;
+    float: right;
+    font-weight: bold;
 }

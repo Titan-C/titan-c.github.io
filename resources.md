@@ -28,4 +28,4 @@ Great for good quality cheap dance shoes, you can use my affiliate coupon code
 * [Personal version of Dvorak keyboard
 layout](https://raw.githubusercontent.com/Titan-C/helpful_scripts/master/
 customkeysymbols)
-* [Ktouch layout](downloads/es(dvorakOscar).xml)
+* [Ktouch layout](/downloads/es(dvorakOscar).xml)
