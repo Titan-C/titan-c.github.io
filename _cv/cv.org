@@ -10,7 +10,7 @@
 #+LATEX_HEADER: \moderncvstyle{classic} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
 #+LATEX_HEADER: \moderncvcolor{blue} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
 #+STARTUP: hideblocks
-#+OPTIONS: toc:nil
+#+OPTIONS: toc:nil tags:nil
 
 #+LATEX_HEADER: \name{Oscar}{Najera}
 #+LATEX_HEADER: \address{1 Square François Couperin}{92160 Antony}{France}
@@ -109,8 +109,7 @@ Programming & computational systems analysis
 - Sept. 2010 - Feb. 2011 :: Teacher's Assistant
     - Support students in single- & multi-variable Calculus, and Real
       Analysis through exercise sessions and solutions of exams.
-
-* Personal Referees
+* Personal Referees                                               :latexonly:
 - Dr. Marcelo Rozenberg :: Master & PhD Thesis Supervisor
     - e-mail :: marcelo.rozenberg@u-psud.fr
     - Institution :: LPS, Université Paris-Sud
@@ -140,8 +139,9 @@ It is important to launch markdown first to make orgmode aware of it
 and understand the first markdown block. Otherwise it appears in the
 Latex file.
 #+BEGIN_SRC emacs-lisp :results output :exports results
-  (org-md-export-to-markdown)
-  (rename-file "cv.md" "../cv.md" t)
+  (let ((org-export-exclude-tags '("noexport" "latexonly")))
+    (org-md-export-to-markdown))
+    (rename-file "cv.md" "../cv.md" t)
 #+END_SRC
 
 #+RESULTS:
@@ -161,3 +161,10 @@ Classes]] . Just run this once to load.
 
 #+RESULTS:
 | moderncv | \documentclass{moderncv} |
+
+#+BEGIN_SRC emacs-lisp
+ (org-latex-export-to-pdf)
+ (rename-file "cv.pdf" "~/Dropbox/Public/najera-cv.pdf" t)
+#+END_SRC
+
+#+RESULTS:
