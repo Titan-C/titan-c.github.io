@@ -14,3 +14,24 @@
     font-weight: bold;
     padding-right: 4px;
 }
+.panel-body {
+    h1 {
+        padding-bottom: 9px;
+        border-bottom: 1px solid #1c1e22;
+        font-size: 30px;}
+
+    h2 {
+        color: #fff;
+        background-color: #4f5454;
+        padding: 10px 15px;
+        margin-bottom: 5px;
+        border-top-left-radius: 3px;
+        border-top-right-radius: 3px;
+        font-size: 22px;}
+
+    h3 {
+        text-align: right;
+        margin: 0;
+        font-size: 18px;}
+
+}

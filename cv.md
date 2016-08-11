@@ -14,29 +14,29 @@ Programming & computational systems analysis
 
 # Education
 
-## Université Paris-Sud, Orsay, France
+## **Université Paris-Sud**, *Orsay, France*
 
 ### **Sept. 2014 &#x2013; today**
 
 -   PhD in Strongly Correlated Electron Systems
     -   Theory Group at Laboratoire de Physique des Solides
 
-## École Normale Supérieure de Cachan, Cachan, France
+## **École Normale Supérieure de Cachan**, *Cachan, France*
 
 ### **Sept. 2013 &#x2013; Sept. 2014**
 
 -   M2 Master in Molecular Nano- bio-photonics (MONABIPHOT)
 
-## Escuela Politécnica Nacional, Quito, Ecuador
+## **Escuela Politécnica Nacional**, *Quito, Ecuador*
 
 ### **Oct. 2006 &#x2013; Sept. 2012**
 
 -   Physics Diploma
     -   Diploma Thesis Topic: Estimation, by computer simulation, of the
         exchange energy dispersion between polar nano-regions in
-        \(Pb_xBi_4Ti_{3+x}O_{12+3x}; x=\{2,3\}\) relaxor ferroelectrics
+        \\(Pb_xBi_4Ti_{3+x}O_{12+3x}; x=\{2,3\}\\) relaxor ferroelectrics
 
-## German School, Quito, Ecuador
+## **German School**, *Quito, Ecuador*
 
 ### **1997 &#x2013; 2006**
 
@@ -119,7 +119,7 @@ Programming & computational systems analysis
 
 -   **Programming Languages:** C/C++, Python, Bash, Php, Matlab/Octave
 -   **Libraries & packages:** GSL, SciPy, NumPy
--   **Content-description languages:** \LaTeX, HTML, CSS
+-   **Content-description languages:** \\(\LaTeX\\), HTML, CSS
 -   **Operating Systems:** Linux(Gentoo & Arch & Ubuntu)
 -   **Graphic design:** Gimp, Inkscape, Blender
 
@@ -132,17 +132,17 @@ Programming & computational systems analysis
 
 # Academic Experience
 
-## **Université Paris Sud, Orsay, France**
+## Université Paris Sud, *Orsay, France*
 
 -   **Feb. 17, 2014 - July 11, 2014:** M2 Internship at Laboratoire de Physique des Solides
     -   Study of spin-orbit effects in the Mott-Hubbard metal-insulator transition
 
-## **Swiss Federal Institute of Technology(ETH), Zurich, Switzerland**
+## Swiss Federal Institute of Technology(ETH), *Zurich, Switzerland*
 
 -   **Apr. 5 - May 15, 2013:** Visitor at Institute for Building Materials (IfB)
     Training in Lattice Boltzmann Methods for fluid dynamics
 
-## **International Center for Theoretical Physics, Trieste, Italy**
+## International Center for Theoretical Physics, *Trieste, Italy*
 
 -   **Mar. 10 - 21, 2014:** Teaching Assistant
     *Workshop on Advanced Techniques for Scientific Programming and
@@ -153,7 +153,7 @@ Programming & computational systems analysis
 -   **Feb. 20 - Mar. 2, 2012:** Invited Student
     *Advanced School on Scientific Software Development* SMR 2330
 
-## **Escuela Politécnica Nacional, Quito, Ecuador**
+## Escuela Politécnica Nacional, *Quito, Ecuador*
 
 -   **Aug. 2011 - June 2012:** Laboratory and teacher's Assistant
     -   Responsible of Experimental Physics laboratory in subjects like

@@ -33,20 +33,20 @@ Condensed Matter, Solid State Physics, Strongly correlated electrons,
 Statistical Mechanics, Mathematical & Theoretical Physics, Scientific
 Programming & computational systems analysis
 * Education
-** Université Paris-Sud, Orsay, France
+** *Université Paris-Sud*, /Orsay, France/
 *** *Sept. 2014 -- today*
 - PhD in Strongly Correlated Electron Systems
     - Theory Group at Laboratoire de Physique des Solides
-** École Normale Supérieure de Cachan, Cachan, France
+** *École Normale Supérieure de Cachan*, /Cachan, France/
 *** *Sept. 2013 -- Sept. 2014*
  - M2 Master in Molecular Nano- bio-photonics (MONABIPHOT)
-** Escuela Politécnica Nacional, Quito, Ecuador
+** *Escuela Politécnica Nacional*, /Quito, Ecuador/
 *** *Oct. 2006 -- Sept. 2012*
  - Physics Diploma
    - Diploma Thesis Topic: Estimation, by computer simulation, of the
      exchange energy dispersion between polar nano-regions in
      $Pb_xBi_4Ti_{3+x}O_{12+3x}; x=\{2,3\}$ relaxor ferroelectrics
-** German School, Quito, Ecuador
+** *German School*, /Quito, Ecuador/
 *** *1997 -- 2006*
 - German Abitur May 2006
 - Ecuadorian High School Diploma June 2005
@@ -57,7 +57,6 @@ Programming & computational systems analysis
 | Physics Olympiad $1^{st}$ place, Escuela Politécnica Nacional     | Ecuador   | 2010 |
 | Bronze Medal for Academic performance, German School Quito        | Ecuador   | 2005 |
 | PAD Preisträger, Kultusminister Konferenz                         | Germany   | 2003 |
-
 * Conference Presentations
 - *O. Nájera*, L. Lascano: /Estimation of the exchange interaction
   dispersion between polar nano-regions in relaxors P2BIT & P3BIT/, At:
@@ -74,10 +73,9 @@ Programming & computational systems analysis
 * Computer Skills
 - Programming Languages ::  C/C++, Python, Bash, Php, Matlab/Octave
 - Libraries & packages :: GSL, SciPy, NumPy
-- Content-description languages :: \LaTeX, HTML, CSS
+- Content-description languages :: $\LaTeX$, HTML, CSS
 - Operating Systems ::  Linux(Gentoo & Arch & Ubuntu)
 - Graphic design :: Gimp, Inkscape, Blender
-
 * Languages
 - English :: Fluent
 - German :: Fluent
@@ -85,13 +83,13 @@ Programming & computational systems analysis
 - French :: Intermediate
 
 * Academic Experience
-** *Université Paris Sud, Orsay, France*
+** Université Paris Sud, /Orsay, France/
 -  Feb. 17, 2014 - July 11, 2014 :: M2 Internship at Laboratoire de Physique des Solides
   - Study of spin-orbit effects in the Mott-Hubbard metal-insulator transition
-** *Swiss Federal Institute of Technology(ETH), Zurich, Switzerland*
+** Swiss Federal Institute of Technology(ETH), /Zurich, Switzerland/
 - Apr. 5 - May 15, 2013 :: Visitor at Institute for Building Materials (IfB)
     Training in Lattice Boltzmann Methods for fluid dynamics
-** *International Center for Theoretical Physics, Trieste, Italy*
+** International Center for Theoretical Physics, /Trieste, Italy/
 - Mar. 10 - 21, 2014 :: Teaching Assistant
     /Workshop on Advanced Techniques for Scientific Programming and
     Management of Open Source Software packages/ SMR 2574
@@ -100,7 +98,7 @@ Programming & computational systems analysis
     Research Work/ SMR 2503
 - Feb. 20 - Mar. 2, 2012 :: Invited Student
     /Advanced School on Scientific Software Development/ SMR 2330
-** *Escuela Politécnica Nacional, Quito, Ecuador*
+** Escuela Politécnica Nacional, /Quito, Ecuador/
 - Aug. 2011 - June 2012 :: Laboratory and teacher's Assistant
     - Responsible of Experimental Physics laboratory in subjects like
       Newtonian Mechanics, Electromagnetism and Optics. Shared
@@ -145,6 +143,9 @@ Latex file.
 #+END_SRC
 
 #+RESULTS:
+
+and remember to double escape the latex in the rendered markdown
+file. So \(\LaTeX\) has to become \\(\LaTeX\\)
 ** Latex
 To load the CV Template into the orgmode export I need to load the
 moderncv class. I adapted this from [[http://orgmode.org/worg/org-tutorials/org-latex-export.html][Latex export - 6 Using Custom
