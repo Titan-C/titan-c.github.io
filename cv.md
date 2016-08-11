@@ -52,6 +52,12 @@ Programming & computational systems analysis
 -   **2005:** Bronze Medal for Academic performance, German School Quito, *Ecuador*
 -   **2003:** PAD Preisträger, Kultusminister Konferenz, *Germany*
 
+# Preprints
+
+-   **O. Nájera**, M. Civelli, V. Dobrosavljević, M. Rozenberg: *Resolving
+    the chicken-and-egg problem in VO<sub>2</sub>:* *a new paradigm for the Mott
+    transition*, [arXiv 1606.03157](http://arxiv.org/abs/1606.03157)
+
 # Conference Presentations
 
 -   **O. Nájera**, L. Lascano: *Estimation of the exchange interaction
@@ -61,6 +67,12 @@ Programming & computational systems analysis
 
 # Posters
 
+-   **O. Nájera**, M. Civelli, V. Dobrosavljević, M. Rozenberg: *A minimal
+    model approach to the Mott transition in VO<sub>2</sub>*, At: School on
+    Computational Quantum Materials, Orford(Québec)-Canada, 2016
+-   **O. Nájera**, M. Civelli, M. Rozenberg, *Spin-orbit effect in the
+    Mott-Hubbard metal-insulator transition*, At: COR.S.O 2015,
+    Cargèse-France, August 2015
 -   **O. Nájera**, M. Civelli, M. Rozenberg, *Spin-orbit effect in the
     Mott-Hubbard metal-insulator transition*, At: LEES 2014,
     Amboise-France June 2014

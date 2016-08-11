@@ -57,12 +57,22 @@ Programming & computational systems analysis
 - 2010 :: Physics Olympiad $1^{st}$ place, Escuela Politécnica Nacional, /Ecuador/
 - 2005 :: Bronze Medal for Academic performance, German School Quito, /Ecuador/
 - 2003 :: PAD Preisträger, Kultusminister Konferenz, /Germany/
+* Preprints
+- *O. Nájera*, M. Civelli, V. Dobrosavljević, M. Rozenberg: /Resolving
+  the chicken-and-egg problem in VO_2:/ /a new paradigm for the Mott
+  transition/, [[http://arxiv.org/abs/1606.03157][arXiv 1606.03157]]
 * Conference Presentations
 - *O. Nájera*, L. Lascano: /Estimation of the exchange interaction
   dispersion between polar nano-regions in relaxors P2BIT & P3BIT/, At:
   XVI ELAVIO, /Latin American School in Operations Research/, Bento
   Gonçalves - RS - Brazil Feb. 2012
 * Posters
+- *O. Nájera*, M. Civelli, V. Dobrosavljević, M. Rozenberg: /A minimal
+  model approach to the Mott transition in VO_2/, At: School on
+  Computational Quantum Materials, Orford(Québec)-Canada, 2016
+- *O. Nájera*, M. Civelli, M. Rozenberg, /Spin-orbit effect in the
+  Mott-Hubbard metal-insulator transition/, At: COR.S.O 2015,
+  Cargèse-France, August 2015
 - *O. Nájera*, M. Civelli, M. Rozenberg, /Spin-orbit effect in the
   Mott-Hubbard metal-insulator transition/, At: LEES 2014,
   Amboise-France June 2014
