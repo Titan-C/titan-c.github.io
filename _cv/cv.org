@@ -136,7 +136,7 @@ here are the steps to follow.
 It is important to launch markdown first to make orgmode aware of it
 and understand the first markdown block. Otherwise it appears in the
 Latex file.
-#+BEGIN_SRC emacs-lisp :results output :exports results
+#+BEGIN_SRC emacs-lisp
   (let ((org-export-exclude-tags '("noexport" "latexonly")))
     (org-md-export-to-markdown))
     (rename-file "cv.md" "../cv.md" t)
