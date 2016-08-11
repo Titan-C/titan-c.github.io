@@ -1,21 +1,32 @@
-#+TITLE:  Curriculum
+#+TITLE: Curriculum Vitae
 #+AUTHOR: Óscar Andrés Nájera Ocampo
 #+EMAIL:  najera.oscar@gmail.com
 #+DATE:   2016 Jul 02
-#+TAGS:
-#+LATEX_HEADER: \usepackage[top=2cm,bottom=2.5cm,left=3cm,right=3cm]{geometry}
-#+LATEX_HEADER: \usepackage{indentfirst}
-#+LATEX_CLASS_OPTIONS: [a4paper,12pt]
+#+LATEX_CLASS: moderncv
+#+LATEX_CLASS_OPTIONS: [a4paper,11pt]
+#+LATEX_HEADER: \usepackage[scale=0.85]{geometry}
+#+LATEX_HEADER: \usepackage[utf8]{inputenc}
+#+LATEX_HEADER: \usepackage{hyperref}
+#+LATEX_HEADER: \moderncvstyle{classic} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
+#+LATEX_HEADER: \moderncvcolor{blue} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
 #+STARTUP: hideblocks
-#+OPTIONS: toc:nil num:nil
+#+OPTIONS: toc:nil
 
-* Contact Information
+#+LATEX_HEADER: \name{Oscar}{Najera}
+#+LATEX_HEADER: \address{1 Square François Couperin}{92160 Antony}{France}
+#+LATEX_HEADER: \phone[mobile]{(+33) 0750908406}
+#+LATEX_HEADER: \email{najera.oscar@gmail.com}
+#+LATEX_HEADER: \homepage{https://titan-c.github.com}
+#+LATEX_HEADER: \quote{just try it}
+#+LATEX_HEADER: \photo{./foto2012.jpg}
+
+* Contact Information                                              :noexport:
 | *Home Address* | 1 Square François Couperin |
 |              | 92160 Antony - France      |
 | *Mobile*       | (+33) 0750908406           |
 | *e-mail*       | najera.oscar@gmail.com     |
 | *www*          | https://titan-c.github.com |
-* Personal Information
+* Personal Information                                             :noexport:
 | *Family Name* | Nájera Ocampo |   | *Given Name*    | Óscar Andrés  |
 | *Nationality* | Ecuadorian    |   | *Date of Birth* | 13 April 1988 |
 | *Gender*      | Male          |   |               |               |
@@ -25,19 +36,20 @@ Statistical Mechanics, Mathematical & Theoretical Physics, Scientific
 Programming & computational systems analysis
 * Education
 ** Université Paris-Sud, Orsay, France
-Sept. 2014-Present
+*** *Sept. 2014 -- today*
 - PhD in Strongly Correlated Electron Systems
     - Theory Group at Laboratoire de Physique des Solides
 ** École Normale Supérieure de Cachan, Cachan, France
-Sept. 2013 - Sept. 2014
-- M2 Master in Molecular Nano- bio-photonics (MONABIPHOT)
+*** *Sept. 2013 -- Sept. 2014*
+ - M2 Master in Molecular Nano- bio-photonics (MONABIPHOT)
 ** Escuela Politécnica Nacional, Quito, Ecuador
-Oct. 2006 - Sept. 2012
-- Physics Diploma  Oct. 2006 - Sept. 2012
-  - Diploma Thesis Topic: Estimation, by computer simulation, of the
-    exchange energy dispersion between polar nano-regions in
-    $Pb_xBi_4Ti_{3+x}O_{12+3x}; x=\{2,3\}$ relaxor ferroelectrics
+*** *Oct. 2006 -- Sept. 2012*
+ - Physics Diploma
+   - Diploma Thesis Topic: Estimation, by computer simulation, of the
+     exchange energy dispersion between polar nano-regions in
+     $Pb_xBi_4Ti_{3+x}O_{12+3x}; x=\{2,3\}$ relaxor ferroelectrics
 ** German School, Quito, Ecuador
+*** *1997 -- 2006*
 - German Abitur May 2006
 - Ecuadorian High School Diploma June 2005
 
@@ -50,28 +62,28 @@ Oct. 2006 - Sept. 2012
 | PAD Preisträger, Kultusminister Konferenz                         | Germany   | 2003 |
 
 * Academic Experience
-** Université Paris Sud, Orsay, France
-- M2 Internship at Laboratoire de Physique des Solides Feb. 17, 2014 - July 11, 2014
+** *Université Paris Sud, Orsay, France*
+-  Feb. 17, 2014 - July 11, 2014 :: M2 Internship at Laboratoire de Physique des Solides
   - Study of spin-orbit effects in the Mott-Hubbard metal-insulator transition
-** Swiss Federal Institute of Technology(ETH), Zurich, Switzerland
-  - Visitor at Institute for Building Materials (IfB) Apr. 5 - May 15, 2013
+** *Swiss Federal Institute of Technology(ETH), Zurich, Switzerland*
+- Apr. 5 - May 15, 2013 :: Visitor at Institute for Building Materials (IfB)
     Training in Lattice Boltzmann Methods for fluid dynamics
-** International Center for Theoretical Physics, Trieste, Italy
-  - Teaching Assistant Mar. 10 - 21, 2014
+** *International Center for Theoretical Physics, Trieste, Italy*
+- Mar. 10 - 21, 2014 :: Teaching Assistant
     /Workshop on Advanced Techniques for Scientific Programming and
     Management of Open Source Software packages/ SMR 2574
-  - Invited Student Mar. 11 - 22, 2013
+- Mar. 11 - 22, 2013 :: Invited Student
     /Workshop on Computer Programming and Advanced Tools for Scientific
     Research Work/ SMR 2503
-  - Invited Student Feb. 20 - Mar. 2, 2012
+- Feb. 20 - Mar. 2, 2012 :: Invited Student
     /Advanced School on Scientific Software Development/ SMR 2330
-** Escuela Politécnica Nacional, Quito, Ecuador
-  - Laboratory and teacher's Assistant Aug. 2011 - June 2012
+** *Escuela Politécnica Nacional, Quito, Ecuador*
+- Aug. 2011 - June 2012 :: Laboratory and teacher's Assistant
     - Responsible of Experimental Physics laboratory in subjects like
       Newtonian Mechanics, Electromagnetism and Optics. Shared
       responsibility for lectures, homework assignments and grades in
       this subjects.
-  - Teacher's Assistant Sept. 2010 - Feb. 2011
+- Sept. 2010 - Feb. 2011 :: Teacher's Assistant
     - Support students in single- & multi-variable Calculus, and Real
       Analysis through exercise sessions and solutions of exams.
 
