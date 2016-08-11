@@ -17,19 +17,17 @@
 #+LATEX_HEADER: \phone[mobile]{(+33) 0750908406}
 #+LATEX_HEADER: \email{najera.oscar@gmail.com}
 #+LATEX_HEADER: \homepage{https://titan-c.github.com}
-#+LATEX_HEADER: \quote{just try it}
 #+LATEX_HEADER: \photo{./foto2012.jpg}
+#+BEGIN_MARKDOWN
+---
+layout: page
+title: Curriculum Vitae
+permalink: /cv/
+---
 
-* Contact Information                                              :noexport:
-| *Home Address* | 1 Square François Couperin |
-|              | 92160 Antony - France      |
-| *Mobile*       | (+33) 0750908406           |
-| *e-mail*       | najera.oscar@gmail.com     |
-| *www*          | https://titan-c.github.com |
-* Personal Information                                             :noexport:
-| *Family Name* | Nájera Ocampo |   | *Given Name*    | Óscar Andrés  |
-| *Nationality* | Ecuadorian    |   | *Date of Birth* | 13 April 1988 |
-| *Gender*      | Male          |   |               |               |
+##### [PDF file download](https://dl.dropbox.com/u/29005867/najera-cv.pdf)
+#+END_MARKDOWN
+
 * Research Interests
 Condensed Matter, Solid State Physics, Strongly correlated electrons,
 Statistical Mechanics, Mathematical & Theoretical Physics, Scientific
@@ -52,7 +50,6 @@ Programming & computational systems analysis
 *** *1997 -- 2006*
 - German Abitur May 2006
 - Ecuadorian High School Diploma June 2005
-
 * Honors and Awards
 | PhD fellowship, École Doctorale Physique en Île de France         | France    | 2014 |
 | Paris-Saclay Master Scholarship, Campus Paris-Saclay              | France    | 2013 |
@@ -60,32 +57,6 @@ Programming & computational systems analysis
 | Physics Olympiad $1^{st}$ place, Escuela Politécnica Nacional     | Ecuador   | 2010 |
 | Bronze Medal for Academic performance, German School Quito        | Ecuador   | 2005 |
 | PAD Preisträger, Kultusminister Konferenz                         | Germany   | 2003 |
-
-* Academic Experience
-** *Université Paris Sud, Orsay, France*
--  Feb. 17, 2014 - July 11, 2014 :: M2 Internship at Laboratoire de Physique des Solides
-  - Study of spin-orbit effects in the Mott-Hubbard metal-insulator transition
-** *Swiss Federal Institute of Technology(ETH), Zurich, Switzerland*
-- Apr. 5 - May 15, 2013 :: Visitor at Institute for Building Materials (IfB)
-    Training in Lattice Boltzmann Methods for fluid dynamics
-** *International Center for Theoretical Physics, Trieste, Italy*
-- Mar. 10 - 21, 2014 :: Teaching Assistant
-    /Workshop on Advanced Techniques for Scientific Programming and
-    Management of Open Source Software packages/ SMR 2574
-- Mar. 11 - 22, 2013 :: Invited Student
-    /Workshop on Computer Programming and Advanced Tools for Scientific
-    Research Work/ SMR 2503
-- Feb. 20 - Mar. 2, 2012 :: Invited Student
-    /Advanced School on Scientific Software Development/ SMR 2330
-** *Escuela Politécnica Nacional, Quito, Ecuador*
-- Aug. 2011 - June 2012 :: Laboratory and teacher's Assistant
-    - Responsible of Experimental Physics laboratory in subjects like
-      Newtonian Mechanics, Electromagnetism and Optics. Shared
-      responsibility for lectures, homework assignments and grades in
-      this subjects.
-- Sept. 2010 - Feb. 2011 :: Teacher's Assistant
-    - Support students in single- & multi-variable Calculus, and Real
-      Analysis through exercise sessions and solutions of exams.
 
 * Conference Presentations
 - *O. Nájera*, L. Lascano: /Estimation of the exchange interaction
@@ -113,6 +84,32 @@ Programming & computational systems analysis
 - Spanish :: Native
 - French :: Intermediate
 
+* Academic Experience
+** *Université Paris Sud, Orsay, France*
+-  Feb. 17, 2014 - July 11, 2014 :: M2 Internship at Laboratoire de Physique des Solides
+  - Study of spin-orbit effects in the Mott-Hubbard metal-insulator transition
+** *Swiss Federal Institute of Technology(ETH), Zurich, Switzerland*
+- Apr. 5 - May 15, 2013 :: Visitor at Institute for Building Materials (IfB)
+    Training in Lattice Boltzmann Methods for fluid dynamics
+** *International Center for Theoretical Physics, Trieste, Italy*
+- Mar. 10 - 21, 2014 :: Teaching Assistant
+    /Workshop on Advanced Techniques for Scientific Programming and
+    Management of Open Source Software packages/ SMR 2574
+- Mar. 11 - 22, 2013 :: Invited Student
+    /Workshop on Computer Programming and Advanced Tools for Scientific
+    Research Work/ SMR 2503
+- Feb. 20 - Mar. 2, 2012 :: Invited Student
+    /Advanced School on Scientific Software Development/ SMR 2330
+** *Escuela Politécnica Nacional, Quito, Ecuador*
+- Aug. 2011 - June 2012 :: Laboratory and teacher's Assistant
+    - Responsible of Experimental Physics laboratory in subjects like
+      Newtonian Mechanics, Electromagnetism and Optics. Shared
+      responsibility for lectures, homework assignments and grades in
+      this subjects.
+- Sept. 2010 - Feb. 2011 :: Teacher's Assistant
+    - Support students in single- & multi-variable Calculus, and Real
+      Analysis through exercise sessions and solutions of exams.
+
 * Personal Referees
 - Dr. Marcelo Rozenberg :: Master & PhD Thesis Supervisor
     - e-mail :: marcelo.rozenberg@u-psud.fr
@@ -124,3 +121,43 @@ Programming & computational systems analysis
 - Ballroom Dancing
 - Cycling
 - Swimming
+
+* Contact Information                                              :noexport:
+| *Home Address* | 1 Square François Couperin |
+|              | 92160 Antony - France      |
+| *Mobile*       | (+33) 0750908406           |
+| *e-mail*       | najera.oscar@gmail.com     |
+| *www*          | https://titan-c.github.com |
+* Personal Information                                             :noexport:
+| *Family Name* | Nájera Ocampo |   | *Given Name*    | Óscar Andrés  |
+| *Nationality* | Ecuadorian    |   | *Date of Birth* | 13 April 1988 |
+| *Gender*      | Male          |   |               |               |
+* Readme - About exports                                           :noexport:
+Because for now I could not make the export process totally automatic
+here are the steps to follow.
+** Markdown export for the website
+It is important to launch markdown first to make orgmode aware of it
+and understand the first markdown block. Otherwise it appears in the
+Latex file.
+#+BEGIN_SRC emacs-lisp :results output :exports results
+  (org-md-export-to-markdown)
+  (rename-file "cv.md" "../cv.md" t)
+#+END_SRC
+
+#+RESULTS:
+** Latex
+To load the CV Template into the orgmode export I need to load the
+moderncv class. I adapted this from [[http://orgmode.org/worg/org-tutorials/org-latex-export.html][Latex export - 6 Using Custom
+Classes]] . Just run this once to load.
+#+BEGIN_SRC emacs-lisp
+  (add-to-list 'org-latex-classes '("moderncv"
+                      "\\documentclass{moderncv}
+       [NO-DEFAULT-PACKAGES]
+       [EXTRA]"
+       ("\\section{%s}" . "\\section*{%s}")
+       ("\\subsection{%s}" . "\\subsection*{%s}")
+       ("\\cvitem{%s}{" "}" "\\cvitem{%s}{" "}")))
+#+END_SRC
+
+#+RESULTS:
+| moderncv | \documentclass{moderncv} |
