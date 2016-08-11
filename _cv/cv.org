@@ -51,12 +51,12 @@ Programming & computational systems analysis
 - German Abitur May 2006
 - Ecuadorian High School Diploma June 2005
 * Honors and Awards
-| PhD fellowship, École Doctorale Physique en Île de France         | France    | 2014 |
-| Paris-Saclay Master Scholarship, Campus Paris-Saclay              | France    | 2013 |
-| Danced for Ecuador in WDSF World DanceSport Championship Standard | Australia | 2012 |
-| Physics Olympiad $1^{st}$ place, Escuela Politécnica Nacional     | Ecuador   | 2010 |
-| Bronze Medal for Academic performance, German School Quito        | Ecuador   | 2005 |
-| PAD Preisträger, Kultusminister Konferenz                         | Germany   | 2003 |
+- 2014 :: PhD fellowship, École Doctorale Physique en Île de France, /France/
+- 2013 :: Paris-Saclay Master Scholarship, Campus Paris-Saclay, /France/
+- 2012 :: Danced for Ecuador in WDSF World DanceSport Championship Standard, /Australia/
+- 2010 :: Physics Olympiad $1^{st}$ place, Escuela Politécnica Nacional, /Ecuador/
+- 2005 :: Bronze Medal for Academic performance, German School Quito, /Ecuador/
+- 2003 :: PAD Preisträger, Kultusminister Konferenz, /Germany/
 * Conference Presentations
 - *O. Nájera*, L. Lascano: /Estimation of the exchange interaction
   dispersion between polar nano-regions in relaxors P2BIT & P3BIT/, At:

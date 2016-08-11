@@ -45,59 +45,12 @@ Programming & computational systems analysis
 
 # Honors and Awards
 
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-
-
-<colgroup>
-<col  class="org-left" />
-
-<col  class="org-left" />
-
-<col  class="org-right" />
-</colgroup>
-<tbody>
-<tr>
-<td class="org-left">PhD fellowship, École Doctorale Physique en Île de France</td>
-<td class="org-left">France</td>
-<td class="org-right">2014</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Paris-Saclay Master Scholarship, Campus Paris-Saclay</td>
-<td class="org-left">France</td>
-<td class="org-right">2013</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Danced for Ecuador in WDSF World DanceSport Championship Standard</td>
-<td class="org-left">Australia</td>
-<td class="org-right">2012</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Physics Olympiad \(1^{st}\) place, Escuela Politécnica Nacional</td>
-<td class="org-left">Ecuador</td>
-<td class="org-right">2010</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Bronze Medal for Academic performance, German School Quito</td>
-<td class="org-left">Ecuador</td>
-<td class="org-right">2005</td>
-</tr>
-
-
-<tr>
-<td class="org-left">PAD Preisträger, Kultusminister Konferenz</td>
-<td class="org-left">Germany</td>
-<td class="org-right">2003</td>
-</tr>
-</tbody>
-</table>
+-   **2014:** PhD fellowship, École Doctorale Physique en Île de France, *France*
+-   **2013:** Paris-Saclay Master Scholarship, Campus Paris-Saclay, *France*
+-   **2012:** Danced for Ecuador in WDSF World DanceSport Championship Standard, *Australia*
+-   **2010:** Physics Olympiad \\(1^{st}\\) place, Escuela Politécnica Nacional, *Ecuador*
+-   **2005:** Bronze Medal for Academic performance, German School Quito, *Ecuador*
+-   **2003:** PAD Preisträger, Kultusminister Konferenz, *Germany*
 
 # Conference Presentations
 
