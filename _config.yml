@@ -5,7 +5,7 @@ subtitle: Thoughts of a scientist, dancer & fountain pen writer
 description: > # this means to ignore newlines until "baseurl:"
   I elaborated this website in the aim to have a web resource of my work and as a playground where to test things I'm learning. It is not only aimed as personal reference, but to anyone willing to understand what I work on. I have noticed that if don't write things down I forget about them and it becomes as if I never learned them.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://titan-c.github.io/" # the base hostname & protocol for your site
+url: "https://titan-c.github.io/" # the base hostname & protocol for your site
 
 # Owner/author information
 owner:

@@ -1,5 +1,4 @@
-titan-c.github.com
-==================
+# titan-c.github.io
 
 My personal website
-[Visit it](http://titan-c.github.com)
+[Visit it](https://titan-c.github.io)
