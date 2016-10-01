@@ -60,6 +60,8 @@ Programming & computational systems analysis
 
 # Conference Presentations
 
+-   **O. Nájera**: [*Sphinx-Gallery: Pimp your documentation with a gallery
+    of examples*](https://titan-c.github.io/sphinx-gallery-slides/), At: [EuroScipy, Erlangen - Germany 2016](https://www.euroscipy.org/2016/schedule/sessions/22/)
 -   **O. Nájera**, L. Lascano: *Estimation of the exchange interaction
     dispersion between polar nano-regions in relaxors P2BIT & P3BIT*, At:
     XVI ELAVIO, *Latin American School in Operations Research*, Bento

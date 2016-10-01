@@ -12,11 +12,11 @@
 #+STARTUP: hideblocks
 #+OPTIONS: toc:nil tags:nil
 
-#+LATEX_HEADER: \name{Oscar}{Najera}
+#+LATEX_HEADER: \name{Óscar}{Nájera}
 #+LATEX_HEADER: \address{1 Square François Couperin}{92160 Antony}{France}
 #+LATEX_HEADER: \phone[mobile]{(+33) 0750908406}
 #+LATEX_HEADER: \email{najera.oscar@gmail.com}
-#+LATEX_HEADER: \homepage{https://titan-c.github.com}
+#+LATEX_HEADER: \homepage{titan-c.github.io}
 #+LATEX_HEADER: \photo{./foto2012.jpg}
 #+BEGIN_MARKDOWN
 ---
@@ -62,6 +62,8 @@ Programming & computational systems analysis
   the chicken-and-egg problem in VO_2:/ /a new paradigm for the Mott
   transition/, [[http://arxiv.org/abs/1606.03157][arXiv 1606.03157]]
 * Conference Presentations
+- *O. Nájera*: [[https://titan-c.github.io/sphinx-gallery-slides/][/Sphinx-Gallery: Pimp your documentation with a gallery
+  of examples/]], At: [[https://www.euroscipy.org/2016/schedule/sessions/22/][EuroScipy, Erlangen - Germany 2016]]
 - *O. Nájera*, L. Lascano: /Estimation of the exchange interaction
   dispersion between polar nano-regions in relaxors P2BIT & P3BIT/, At:
   XVI ELAVIO, /Latin American School in Operations Research/, Bento
@@ -134,7 +136,7 @@ Programming & computational systems analysis
 |              | 92160 Antony - France      |
 | *Mobile*       | (+33) 0750908406           |
 | *e-mail*       | najera.oscar@gmail.com     |
-| *www*          | https://titan-c.github.com |
+| *www*          | https://titan-c.github.io |
 * Personal Information                                             :noexport:
 | *Family Name* | Nájera Ocampo |   | *Given Name*    | Óscar Andrés  |
 | *Nationality* | Ecuadorian    |   | *Date of Birth* | 13 April 1988 |
