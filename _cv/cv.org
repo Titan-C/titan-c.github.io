@@ -16,9 +16,9 @@
 #+LATEX_HEADER: \address{1 Square François Couperin}{92160 Antony}{France}
 #+LATEX_HEADER: \phone[mobile]{(+33) 0750908406}
 #+LATEX_HEADER: \email{najera.oscar@gmail.com}
-#+LATEX_HEADER: \homepage{titan-c.github.io}
+#+LATEX_HEADER: \homepage{oscarnajera.com}
 #+LATEX_HEADER: \photo{./foto2012.jpg}
-#+BEGIN_MARKDOWN
+#+BEGIN_EXPORT markdown
 ---
 layout: page
 title: Curriculum Vitae
@@ -26,20 +26,20 @@ permalink: /cv/
 ---
 
 ##### [PDF file download](https://dl.dropbox.com/u/29005867/najera-cv.pdf)
-#+END_MARKDOWN
-
+#+END_EXPORT
 * Research Interests
 Condensed Matter, Solid State Physics, Strongly correlated electrons,
 Statistical Mechanics, Mathematical & Theoretical Physics, Scientific
 Programming & computational systems analysis
 * Education
 ** *Université Paris-Sud*, /Orsay, France/
-*** *Sept. 2014 -- today*
-- PhD in Strongly Correlated Electron Systems
+*** *Sept. 2014 -- current*
+- PhD in Strongly Correlated Electron Systems, Defense expected 7/2017
     - Theory Group at Laboratoire de Physique des Solides
 ** *École Normale Supérieure de Cachan*, /Cachan, France/
 *** *Sept. 2013 -- Sept. 2014*
  - M2 Master in Molecular Nano- bio-photonics (MONABIPHOT)
+   - Mémoire: Study of spin-orbit effects in the Mott-Hubbard metal-insulator transition
 ** *Escuela Politécnica Nacional*, /Quito, Ecuador/
 *** *Oct. 2006 -- Sept. 2012*
  - Physics Diploma
@@ -57,10 +57,10 @@ Programming & computational systems analysis
 - 2010 :: Physics Olympiad $1^{st}$ place, Escuela Politécnica Nacional, /Ecuador/
 - 2005 :: Bronze Medal for Academic performance, German School Quito, /Ecuador/
 - 2003 :: PAD Preisträger, Kultusminister Konferenz, /Germany/
-* Preprints
+* Publications
 - *O. Nájera*, M. Civelli, V. Dobrosavljević, M. Rozenberg: /Resolving
   the chicken-and-egg problem in VO_2:/ /a new paradigm for the Mott
-  transition/, [[http://arxiv.org/abs/1606.03157][arXiv 1606.03157]]
+  transition/, [[http://arxiv.org/abs/1606.03157][arXiv 1606.03157]] accepted for publication in PRB
 * Conference Presentations
 - *O. Nájera*: [[https://titan-c.github.io/sphinx-gallery-slides/][/Sphinx-Gallery: Pimp your documentation with a gallery
   of examples/]], At: [[https://www.euroscipy.org/2016/schedule/sessions/22/][EuroScipy, Erlangen - Germany 2016]]
@@ -83,7 +83,7 @@ Programming & computational systems analysis
   At: NanoAndes, Quito-Ecuador Nov. 2012
 
 * Computer Skills
-- Programming Languages ::  C/C++, Python, Bash, Php, Matlab/Octave
+- Programming Languages ::  Python, C/C++,  Bash, Php, Matlab/Octave
 - Libraries & packages :: GSL, SciPy, NumPy
 - Content-description languages :: $\LaTeX$, HTML, CSS
 - Operating Systems ::  Linux(Gentoo & Arch & Ubuntu)
@@ -95,9 +95,6 @@ Programming & computational systems analysis
 - French :: Intermediate
 
 * Academic Experience
-** Université Paris Sud, /Orsay, France/
--  Feb. 17, 2014 - July 11, 2014 :: M2 Internship at Laboratoire de Physique des Solides
-  - Study of spin-orbit effects in the Mott-Hubbard metal-insulator transition
 ** Swiss Federal Institute of Technology(ETH), /Zurich, Switzerland/
 - Apr. 5 - May 15, 2013 :: Visitor at Institute for Building Materials (IfB)
     Training in Lattice Boltzmann Methods for fluid dynamics
@@ -126,6 +123,9 @@ Programming & computational systems analysis
 - Dr. Marcello Civelli :: Master & PhD Thesis Supervisor
     - e-mail :: marcello.civelli@u-psud.fr
     - Institution :: LPS, Université Paris-Sud
+- Dr. Vladimir Dobrosavljević :: Colaborator
+    - e-mail :: vlad@magnet.fsu.edu
+    - Institution :: National High Magnetic Field Laboratory, Florida State University
 * Outside Interests
 - Ballroom Dancing
 - Cycling

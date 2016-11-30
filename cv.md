@@ -6,28 +6,37 @@ permalink: /cv/
 
 ##### [PDF file download](https://dl.dropbox.com/u/29005867/najera-cv.pdf)
 
+
 # Research Interests
 
 Condensed Matter, Solid State Physics, Strongly correlated electrons,
 Statistical Mechanics, Mathematical & Theoretical Physics, Scientific
 Programming & computational systems analysis
 
+
 # Education
+
 
 ## **Université Paris-Sud**, *Orsay, France*
 
-### **Sept. 2014 &#x2013; today**
 
--   PhD in Strongly Correlated Electron Systems
+### **Sept. 2014 &#x2013; current**
+
+-   PhD in Strongly Correlated Electron Systems, Defense expected 7/2017
     -   Theory Group at Laboratoire de Physique des Solides
 
+
 ## **École Normale Supérieure de Cachan**, *Cachan, France*
+
 
 ### **Sept. 2013 &#x2013; Sept. 2014**
 
 -   M2 Master in Molecular Nano- bio-photonics (MONABIPHOT)
+    -   Mémoire: Study of spin-orbit effects in the Mott-Hubbard metal-insulator transition
+
 
 ## **Escuela Politécnica Nacional**, *Quito, Ecuador*
+
 
 ### **Oct. 2006 &#x2013; Sept. 2012**
 
@@ -36,12 +45,15 @@ Programming & computational systems analysis
         exchange energy dispersion between polar nano-regions in
         \\(Pb_xBi_4Ti_{3+x}O_{12+3x}; x=\{2,3\}\\) relaxor ferroelectrics
 
+
 ## **German School**, *Quito, Ecuador*
+
 
 ### **1997 &#x2013; 2006**
 
 -   German Abitur May 2006
 -   Ecuadorian High School Diploma June 2005
+
 
 # Honors and Awards
 
@@ -52,11 +64,13 @@ Programming & computational systems analysis
 -   **2005:** Bronze Medal for Academic performance, German School Quito, *Ecuador*
 -   **2003:** PAD Preisträger, Kultusminister Konferenz, *Germany*
 
-# Preprints
+
+# Publications
 
 -   **O. Nájera**, M. Civelli, V. Dobrosavljević, M. Rozenberg: *Resolving
     the chicken-and-egg problem in VO<sub>2</sub>:* *a new paradigm for the Mott
-    transition*, [arXiv 1606.03157](http://arxiv.org/abs/1606.03157)
+    transition*, [arXiv 1606.03157](http://arxiv.org/abs/1606.03157) accepted for publication in PRB
+
 
 # Conference Presentations
 
@@ -66,6 +80,7 @@ Programming & computational systems analysis
     dispersion between polar nano-regions in relaxors P2BIT & P3BIT*, At:
     XVI ELAVIO, *Latin American School in Operations Research*, Bento
     Gonçalves - RS - Brazil Feb. 2012
+
 
 # Posters
 
@@ -82,13 +97,15 @@ Programming & computational systems analysis
     dispersion between PNR in relaxor ferroelectrics*,  Awarded poster
     At: NanoAndes, Quito-Ecuador Nov. 2012
 
+
 # Computer Skills
 
--   **Programming Languages:** C/C++, Python, Bash, Php, Matlab/Octave
+-   **Programming Languages:** Python, C/C++,  Bash, Php, Matlab/Octave
 -   **Libraries & packages:** GSL, SciPy, NumPy
 -   **Content-description languages:** \\(\LaTeX\\), HTML, CSS
 -   **Operating Systems:** Linux(Gentoo & Arch & Ubuntu)
 -   **Graphic design:** Gimp, Inkscape, Blender
+
 
 # Languages
 
@@ -97,17 +114,15 @@ Programming & computational systems analysis
 -   **Spanish:** Native
 -   **French:** Intermediate
 
+
 # Academic Experience
 
-## Université Paris Sud, *Orsay, France*
-
--   **Feb. 17, 2014 - July 11, 2014:** M2 Internship at Laboratoire de Physique des Solides
-    -   Study of spin-orbit effects in the Mott-Hubbard metal-insulator transition
 
 ## Swiss Federal Institute of Technology(ETH), *Zurich, Switzerland*
 
 -   **Apr. 5 - May 15, 2013:** Visitor at Institute for Building Materials (IfB)
     Training in Lattice Boltzmann Methods for fluid dynamics
+
 
 ## International Center for Theoretical Physics, *Trieste, Italy*
 
@@ -120,6 +135,7 @@ Programming & computational systems analysis
 -   **Feb. 20 - Mar. 2, 2012:** Invited Student
     *Advanced School on Scientific Software Development* SMR 2330
 
+
 ## Escuela Politécnica Nacional, *Quito, Ecuador*
 
 -   **Aug. 2011 - June 2012:** Laboratory and teacher's Assistant
@@ -130,6 +146,7 @@ Programming & computational systems analysis
 -   **Sept. 2010 - Feb. 2011:** Teacher's Assistant
     -   Support students in single- & multi-variable Calculus, and Real
         Analysis through exercise sessions and solutions of exams.
+
 
 # Outside Interests
 
