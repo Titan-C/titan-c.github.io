@@ -1,4 +1,4 @@
-# titan-c.github.io
+# oscarnajera.com
 
 My personal website
-[Visit it](https://titan-c.github.io)
+[Visit it](http://oscarnajera.com)
