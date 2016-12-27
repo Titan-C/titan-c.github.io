@@ -17,6 +17,7 @@
 #+LATEX_HEADER: \phone[mobile]{(+33) 0750908406}
 #+LATEX_HEADER: \email{najera.oscar@gmail.com}
 #+LATEX_HEADER: \homepage{oscarnajera.com}
+#+LATEX_HEADER: \social[github]{Titan-C}
 #+LATEX_HEADER: \photo{./foto2012.jpg}
 #+BEGIN_EXPORT markdown
 ---
