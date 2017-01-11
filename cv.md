@@ -68,7 +68,7 @@ Programming & computational systems analysis
 # Publications
 
 -   **O. Nájera**, M. Civelli, V. Dobrosavljević, M. Rozenberg: *Resolving
-    the VO\(_2\) controversy:* *Mott mechanism dominates the
+    the VO<sub>2</sub> controversy:* *Mott mechanism dominates the
     insulator-to-metal transition*, [Phys. Rev. B 95, 035113 (2017)](http://doi.org/10.1103/physrevb.95.035113),
     [arXiv: 1606.03157](http://arxiv.org/abs/1606.03157)
 
