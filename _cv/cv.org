@@ -60,8 +60,10 @@ Programming & computational systems analysis
 - 2003 :: PAD Preisträger, Kultusminister Konferenz, /Germany/
 * Publications
 - *O. Nájera*, M. Civelli, V. Dobrosavljević, M. Rozenberg: /Resolving
-  the chicken-and-egg problem in VO_2:/ /a new paradigm for the Mott
-  transition/, [[http://arxiv.org/abs/1606.03157][arXiv 1606.03157]] accepted for publication in PRB
+  the VO$_2$ controversy:/ /Mott mechanism dominates the
+  insulator-to-metal transition/, [[http://doi.org/10.1103/physrevb.95.035113][Phys. Rev. B 95, 035113 (2017)]],
+  [[http://arxiv.org/abs/1606.03157][arXiv: 1606.03157]]
+
 * Conference Presentations
 - *O. Nájera*: [[https://titan-c.github.io/sphinx-gallery-slides/][/Sphinx-Gallery: Pimp your documentation with a gallery
   of examples/]], At: [[https://www.euroscipy.org/2016/schedule/sessions/22/][EuroScipy, Erlangen - Germany 2016]]
