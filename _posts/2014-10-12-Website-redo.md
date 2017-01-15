@@ -32,7 +32,7 @@ and simplified a few things in the code, and understood how it's working.
 Importing the blogger post was really easy because I didn't have many anyway and
 I could do it manually.
 
-### What did I learned this time?
+### What did I learn this time?
 
 * Unless you have a clear picture of the end output, don't mess with CSS
 * I can import icons from [Font Awesome], instead of redrawing them for the

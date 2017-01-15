@@ -9,11 +9,11 @@ layout: default
     </div>
 
     <div class="panel-body">
-        <div class="list-group col-lg-8 col-md-10">
+        <div class="list-group col-sm-12">
             {% for post in paginator.posts %}
             <a class="list-group-item" href="{{ post.url | prepend: site.baseurl }}">
                 <h2 class="list-group-item-heading">{{ post.title }}</h2>
-                <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+                <h4 class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</h4>
                 <p class="list-group-item-text">{{ post.content | strip_html | truncatewords:80 }}</p>
             </a>
             {% endfor %}
@@ -21,7 +21,7 @@ layout: default
 
         <!-- Pagination links -->
         {% if paginator.total_pages > 1 %}
-        <nav class="col-lg-8 col-md-10">
+        <nav class="col-sm-12">
             <ul class="pagination">
             {% if paginator.previous_page %}
                 <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">Previous</a></li>
