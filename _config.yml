@@ -10,7 +10,7 @@ url: "https://titan-c.github.io/" # the base hostname & protocol for your site
 # Owner/author information
 owner:
     name:               Óscar Nájera
-    email:               najera.oscar@gmail.com
+    email:              hi@oscarnajera.com
     github:             Titan-C
     google_plus:        +ÓscarNájera
     twitter:            najeraoscar1
@@ -20,6 +20,7 @@ owner:
 #    linkedin:           óscar-nájera/4b/73/445
 
 # Blog
+gems: [jekyll-paginate]
 paginate: 5
 paginate_path: "blog/page:num/"
 # Build settings
