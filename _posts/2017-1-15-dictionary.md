@@ -6,11 +6,11 @@ disqus_id: 20170115dictionary
 categories: personal
 ---
 
-I just found a post on the using
-a
+I just found a post on
+using
 [the right dictionary](http://mbork.pl/2017-01-14_I'm_now_using_the_right_dictionary) and
 I immediately had to review its
-reference
+reference:
 [You’re probably using the wrong dictionary by James Somers][jsomers]. I
 don't regret it. The core message is that we shall not only use
 dictionaries to find the meaning of words we don't know, but to use
