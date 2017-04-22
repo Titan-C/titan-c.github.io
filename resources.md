@@ -14,6 +14,8 @@ still allows me to keep the control of my setup.
 * [*Gentoo Linux*](http://gentoo.org)
 My favorite Linux distro, after you manage to install and compile everything you
 just love it.
+* [*Sphinx-Gallery*](https://sphinx-gallery.readthedocs.io/en/latest/)
+  Sphinx extension for automatic generation of an example gallery
 * [*SymPy*](http://sympy.org)
 Python library for symbolic mathematics.
 
@@ -27,5 +29,3 @@ Great for good quality cheap dance shoes, you can use my affiliate coupon code
 
 * [Personal version of Dvorak keyboard
 layout](https://raw.githubusercontent.com/Titan-C/helpful_scripts/master/xkb/symbols/dvorakprog)
-
-* [Ktouch layout](/downloads/es(dvorakOscar).xml)
