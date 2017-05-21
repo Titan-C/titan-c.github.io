@@ -15,7 +15,7 @@
 #+LATEX_HEADER: \name{Óscar}{Nájera}
 #+LATEX_HEADER: \address{1 Square François Couperin}{92160 Antony}{France}
 #+LATEX_HEADER: \phone[mobile]{(+33) 0750908406}
-#+LATEX_HEADER: \email{najera.oscar@gmail.com}
+#+LATEX_HEADER: \email{hello@oscarnajera.com}
 #+LATEX_HEADER: \homepage{oscarnajera.com}
 #+LATEX_HEADER: \social[github]{Titan-C}
 #+LATEX_HEADER: \photo{./foto2012.jpg}
@@ -26,7 +26,7 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-##### [PDF file download](https://dl.dropbox.com/u/29005867/najera-cv.pdf)
+##### [PDF file download](/downloads/najera-cv.pdf)
 #+END_EXPORT
 * Research Interests
 Condensed Matter, Solid State Physics, Strongly correlated electrons,
@@ -65,13 +65,26 @@ Programming & computational systems analysis
   [[http://arxiv.org/abs/1606.03157][arXiv: 1606.03157]]
 
 * Conference Presentations
-- *O. Nájera*: [[https://titan-c.github.io/sphinx-gallery-slides/][/Sphinx-Gallery: Pimp your documentation with a gallery
-  of examples/]], At: [[https://www.euroscipy.org/2016/schedule/sessions/22/][EuroScipy, Erlangen - Germany 2016]]
-- *O. Nájera*, L. Lascano: /Estimation of the exchange interaction
-  dispersion between polar nano-regions in relaxors P2BIT & P3BIT/, At:
-  XVI ELAVIO, /Latin American School in Operations Research/, Bento
-  Gonçalves - RS - Brazil Feb. 2012
+- /Mott Metal - Insulator transition on a dimerized lattice/, A: III
+  Conference of Ecuadorian Mathematicians, Institut Henri Poincaré,
+  Paris - France, 26/04/2017
+- /Resolving the chicken-and-egg problem in VO_2: a new paradigm for the
+  Mott transition/, [[http://meetings.aps.org/Meeting/MAR17/Session/A37b.1][APS March Meeting 2017, New Orleans - USA,
+  13/03/2017]]
+- [[https://titan-c.github.io/sphinx-gallery-slides/][/Sphinx-Gallery: Pimp your documentation with a gallery of examples/]], At:
+  [[https://www.euroscipy.org/2016/schedule/sessions/22/][EuroScipy, Erlangen - Germany 2016]]
+- /Estimation of the exchange interaction dispersion between polar
+  nano-regions in relaxors P2BIT & P3BIT/, At: XVI ELAVIO, /Latin American
+  School in Operations Research/, Bento Gonçalves - RS - Brazil Feb. 2012
+
 * Posters
+
+- *O. Nájera*, M. Civelli, V. Dobrosavljević, M. Rozenberg: /Resolving the
+  chicken-and-egg problem in VO_2: a new paradigm for the Mott transition/,
+  At: CIFAR Quantum Materials Meeting, Paris-France, 2016
+- *O. Nájera*, M. Civelli, V. Dobrosavljević, M. Rozenberg: /A minimal
+  model approach to the Mott transition in VO_2/, At: The New Generation in
+  Strongly Correlated Electron Systems, Trieste-Italie, 2016
 - *O. Nájera*, M. Civelli, V. Dobrosavljević, M. Rozenberg: /A minimal
   model approach to the Mott transition in VO_2/, At: School on
   Computational Quantum Materials, Orford(Québec)-Canada, 2016
@@ -180,7 +193,7 @@ Classes]] . Just run this once to load.
 
 #+BEGIN_SRC emacs-lisp
  (org-latex-export-to-pdf)
- (rename-file "cv.pdf" "~/Dropbox/Public/najera-cv.pdf" t)
+ (rename-file "cv.pdf" "../downloads/najera-cv.pdf" t)
 #+END_SRC
 
 #+RESULTS:

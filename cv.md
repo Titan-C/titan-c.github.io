@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-##### [PDF file download](https://dl.dropbox.com/u/29005867/najera-cv.pdf)
+##### [PDF file download](/downloads/najera-cv.pdf)
 
 
 # Research Interests
@@ -75,16 +75,27 @@ Programming & computational systems analysis
 
 # Conference Presentations
 
--   **O. Nájera**: [*Sphinx-Gallery: Pimp your documentation with a gallery
-    of examples*](https://titan-c.github.io/sphinx-gallery-slides/), At: [EuroScipy, Erlangen - Germany 2016](https://www.euroscipy.org/2016/schedule/sessions/22/)
--   **O. Nájera**, L. Lascano: *Estimation of the exchange interaction
-    dispersion between polar nano-regions in relaxors P2BIT & P3BIT*, At:
-    XVI ELAVIO, *Latin American School in Operations Research*, Bento
-    Gonçalves - RS - Brazil Feb. 2012
+-   *Mott Metal - Insulator transition on a dimerized lattice*, A: III
+    Conference of Ecuadorian Mathematicians, Institut Henri Poincaré,
+    Paris - France, 26/04/2017
+-   *Resolving the chicken-and-egg problem in VO<sub>2</sub>: a new paradigm for the
+    Mott transition*, [APS March Meeting 2017, New Orleans - USA,
+    13/03/2017](http://meetings.aps.org/Meeting/MAR17/Session/A37b.1)
+-   [*Sphinx-Gallery: Pimp your documentation with a gallery of examples*](https://titan-c.github.io/sphinx-gallery-slides/), At:
+    [EuroScipy, Erlangen - Germany 2016](https://www.euroscipy.org/2016/schedule/sessions/22/)
+-   *Estimation of the exchange interaction dispersion between polar
+    nano-regions in relaxors P2BIT & P3BIT*, At: XVI ELAVIO, *Latin American
+    School in Operations Research*, Bento Gonçalves - RS - Brazil Feb. 2012
 
 
 # Posters
 
+-   **O. Nájera**, M. Civelli, V. Dobrosavljević, M. Rozenberg: *Resolving the
+    chicken-and-egg problem in VO<sub>2</sub>: a new paradigm for the Mott transition*,
+    At: CIFAR Quantum Materials Meeting, Paris-France, 2016
+-   **O. Nájera**, M. Civelli, V. Dobrosavljević, M. Rozenberg: *A minimal
+    model approach to the Mott transition in VO<sub>2</sub>*, At: The New Generation in
+    Strongly Correlated Electron Systems, Trieste-Italie, 2016
 -   **O. Nájera**, M. Civelli, V. Dobrosavljević, M. Rozenberg: *A minimal
     model approach to the Mott transition in VO<sub>2</sub>*, At: School on
     Computational Quantum Materials, Orford(Québec)-Canada, 2016
