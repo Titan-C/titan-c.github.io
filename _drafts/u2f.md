@@ -8,14 +8,14 @@ Some time ago I became concerned to have two factor activation enabled
 in my online accounts. First I started using the Google Authenticator
 app on my Android phone, but it is very inconfortable to have to use
 my phone every time. So I decided to try the FIDO U2F keys. The most
-famous come from [Yubico], but they felt a bit to expensive to try
+famous are from [Yubico], but they felt a bit to expensive to try
 them out for convenience, and though they support GPG the starter key
 just for authentication is also a bit expensive so I went for a
 cheaper alternative that shall do the same with the [HyperFIDO U2F
 Security Key], which was half the price, most certainly half the
 features, too. The thing is that on their website you will only find
 documentation to use to authenticate in Google accounts. This post is
-to tell you how far it got in using it.
+to tell you how far I got in using it.
 
 I'm using [Arch Linux] because it's great. The [HyperFIDO U2F Security
 Key] is all plastic and the cap can't stay fixed after few insertions
@@ -23,12 +23,12 @@ of the key into the USB slot it is just an individual device. So the
 indestructible feature of the yubico keys starts to look interesting.
 
 First the standard. Get google to know about this key. When I directly
-tried it failed and I was completely disapointed and thought I bouth
-shit and I should have gone for the yubico device. Nevertheless
-caning a bit further I went to the Arch wiki on the [yubikey] where it
+tried it failed and I was completely disapointed and thought I bought
+shit and I should have gone for the yubico device. Nevertheless,
+investigating a bit further I went to the Arch wiki on the [yubikey] where it
 explicitly states that you need to install [libu2f-host] for the key to
 work, and this is valid for yubikey too. So after installing my fido
-key worked imediately with google authentication. So well done. I have
+key worked immediately with google authentication. So well done. I have
 it working. Then do the same with Github where it works too. Great.
 
 Now if you stop here is good. But better use this key to authenticate
@@ -88,7 +88,7 @@ This will use the module of Yubico pam_u2f and require and
 authentication with key. That's why you need to have all your users
 listed in the file `/etc/u2f_maps`. `cue` writes a reminder that you
 shall press the button on your key to log in. Otherwise you migth be
-wating a long time before you remember yourself. If the key is not
+waiting a long time before you remember it yourself. If the key is not
 pluged then there is no reminder message, your login just fails.
 
 Now I also see the convenience of having the user register their key
