@@ -78,9 +78,8 @@ Programming & computational systems analysis
 -   *Mott Metal - Insulator transition on a dimerized lattice*, A: III
     Conference of Ecuadorian Mathematicians, Institut Henri Poincaré,
     Paris - France, 26/04/2017
--   *Resolving the chicken-and-egg problem in VO<sub>2</sub>: a new paradigm for the
-    Mott transition*, [APS March Meeting 2017, New Orleans - USA,
-    13/03/2017](http://meetings.aps.org/Meeting/MAR17/Session/A37b.1)
+-   [*Resolving the chicken-and-egg problem in VO<sub>2</sub>: a new paradigm for the
+    Mott transition*](http://oscarnajera.com/MM2017), At: [APS March Meeting 2017, New Orleans - USA, 13/03/2017](http://meetings.aps.org/Meeting/MAR17/Session/A37b.1)
 -   [*Sphinx-Gallery: Pimp your documentation with a gallery of examples*](https://titan-c.github.io/sphinx-gallery-slides/), At:
     [EuroScipy, Erlangen - Germany 2016](https://www.euroscipy.org/2016/schedule/sessions/22/)
 -   *Estimation of the exchange interaction dispersion between polar
