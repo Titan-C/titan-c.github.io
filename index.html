@@ -1,56 +1,18 @@
----
-layout: default
----
+<html>
+    <head>
+      <title>Titan-C website</title>
+        <meta http-equiv="refresh" content="2; URL=https://blog.oscarnajera.com">
+        <meta name="keywords" content="Titan-C website">
+    </head>
+    <body>
+      This website has been moved to
+      <a href="https://blog.oscarnajera.com">https://blog.oscarnajera.com</a>
 
-<div class="panel panel-default">
+      You will be redirected to the new documentation
+      within 2 seconds.<br />
 
-     <div class="panel-heading">
-         <h1 class="page-heading">Blog home</h1>
-    </div>
-
-    <div class="panel-body">
-        <div class="list-group col-sm-12">
-            {% for post in paginator.posts %}
-            <a class="list-group-item" href="{{ post.url | prepend: site.baseurl }}">
-                <h2 class="list-group-item-heading">{{ post.title }}</h2>
-                <h4 class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</h4>
-                <p class="list-group-item-text">{{ post.content | strip_html | truncatewords:80 }}</p>
-            </a>
-            {% endfor %}
-        </div>
-
-        <!-- Pagination links -->
-        {% if paginator.total_pages > 1 %}
-        <nav class="col-sm-12">
-            <ul class="pagination">
-            {% if paginator.previous_page %}
-                <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">Previous</a></li>
-            {% else %}
-                <li class="disabled"><a href="#">Previous</a></li>
-            {% endif %}
-
-            {% for page in (1..paginator.total_pages) %}
-                {% if page == paginator.page %}
-                <li class="active"><a  href="#">{{ page }}</a></li>
-                {% elsif page == 1 %}
-                <li><a href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
-                {% else %}
-                <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
-                {% endif %}
-            {% endfor %}
-
-            {% if paginator.next_page %}
-                <li><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next</a></li>
-            {% else %}
-                <li class="disabled"><a href="#">Next</a></li>
-            {% endif %}
-            </ul>
-        </nav>
-        {% endif %}
-
-    </div>
-
-    <div class="panel-footer">
-        <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-    </div>
-</div>
+      If your browser does not automatically redirect
+      you, you may want to go manually there
+      <a href="https://blog.oscarnajera.com">https://blog.oscarnajera.com</a>
+    </body>
+</html>
